@@ -1,0 +1,1422 @@
+All Databases:
+information_schema
+Archeology
+BoardAging
+CACL
+EQB
+GISarchitecture
+GLO
+Lib
+OSA
+WEB
+auth
+bars
+calendar
+esri_license
+eusa
+forumGDA
+gTest
+jus
+lidar
+lidarForum
+logs
+mwforum
+mysql
+performance_schema
+pete
+polls
+pop
+puc_wind
+shp_admin_political
+shp_test
+star
+structures
+test
+watersheds
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+Database: auth
+Table: users
+
+user_passwd user_name 
+MKZuBK9ZAUQYU eusa 
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+Database: puc_wind
+Table: contact_db
+
+name	address	city	phone
+Chris Fleege	30 W. Superior St	Duluth	218-722-1972
+Mike Geier	1751 Madison Ave.	Council Bluffs	712-322-3202
+Tom Wemyss	28 Knight Street	Norwalk	352-219-1798
+Mike Triplett	Box 418	White Earth	218-983-3285
+Jay Haley	3100 DeMers Ave.	Grand Forks	701-775-5507
+Wes Slaymaker	3001 Broadway St. Suite 695	Minneapolis	612-370-1061
+Kevin Bengtson	500 CENTER AVE. P. O. Box 779	Moorhead	218-299-5400
+John M. Ihle	27451 S Hwy 34	Barnesville	701-232-4948
+Guy Rusche	47649 250th Street	Garretson	605-529-5140
+Jeff Bendel	50601 365th Street	Bingham Lake	507-296-4551
+Cris Justis	2510 W. 237th Street Suite 210	Torrence	310-530-3188
+Dan Juhl	996 190th Avenue	Woodstock	507-777-4310
+Randy Polzin	441 West Dual Blvd.	Isanti	763-444-7335
+Charles Nelson	38695 County Road 2	Hancock	320-760-2365
+Charles Nelson	38695 County Road 2	Hancock	320-760-2365
+Wes Slaymaker	2105 1st Ave S	Minneapolis	612-210-7579
+Jeffrey Paulson	7301 Ohms Lane Suite 325	Edina	952-835-0055
+Gary Allen	23430 Hawthorne Blvd. Suite 200 Bldg	Torrance	
+Charles Nelson	38695 County Road 2	Hancock	320-760-2365
+Keith Thorstad	po Box 321 101 2nd St. W	Chokio	320-324-7155
+Doug Copeland	3001 Broadway Street NE Suite 695	Minneapolis	612-370-1061
+Paul Strong	224 Northwest 2nd Street	Ortonville	320-839-6118
+Karla Dufour	332 Minnesota Street Suite W-1260	St. Paul	651-221-1044
+Scott Larsen	2511 565th St	Granite Falls	320-564-6329
+Wesley K. Hompe	700 Litchfield Ave SW	Willmar	320- 235-4422
+Jon Folkedahl	4000 15th Street NE	Willmar	320- 894-5471
+Jeff Bendel	401 Lone Tree Street	Porter	507-296-4551
+David Blecker	7295 East Cate Road	Belleville	608-424-1870
+David Blecker	211 E. Ontario Street Suite 1720	Chicago	608-424-1870
+Mert Auger	212 Central Avenue	Buffalo	763-682-1181
+Marcus Watson	12224 Nicollet Avenue	Burnsville	952-890-0509
+Carole Schmidt	17845 E. Highway 10	Elk River	763-241-2272
+John Doth	7362 East Point Douglas Road	Cottage Grove	651-458-6289
+Todd Volkmeier	1750 Commerce Court	White Bear Lake	651-748-4347
+Ben Van Gundy	365 Marie Ave W	West St. Paul	651-455-4531
+Bob Klingberg	6380 131st St Ct West	Apple Valley	612-414-9658
+Craig Knudsen	4300 220th Street West	Farmington	651- 463-6332
+Peter Sandberg	1520 St. Olaf Avenue	Northfield	507-646-3611
+Rory Artig	201 Ridgewood Avenue	Minneapolis	651-470-2948
+Rory Artig	15115 133rd Street North	Stillwater	651-470-2948
+Linda Grover	177 Main Street	Winona	507-457-6483
+Daniel R. Moore	845 310th Avenue	Blue Earth	507-464-3324
+Dan Moore	845 310th Ave	Blue Earth	507-464-3324
+Daniel Hayes	500 1st Avenue SW	Rochester	507-285-0478
+Mark Lucas	3033 Excelsior Blvd	Minneapolis	612-746-6600
+Garwin McNeilus	65742 State Hwy 56	Dodge Center	507-374-2000
+Garwin McNeilus	65742 State Hwy 56	Dodge Center	507-374-2000
+Garwin McNeilus	65742 State Hwy 56	Dodge Center	507-374-2000
+Garwin McNeilus	65742 State Hwy 56	Dodge Center	507-374-2000
+Steve Offenhauser	10 2nd St SE Suite 107	Minneapolis	612-746-0770
+Michael Wheeler	700 La Terraza Blvd #200	Escondido	760-740-7022
+Kellie Doherty Dir Environmental Health	One International Place 9th Floor	Boston	617-912-6025 
+Aaron Tippie	7699 Anagram Drive	Eden Prairie	952- 937-5150
+Rio Roland	10 2nd St NE #107	Minneapolis 	612-746-0770 
+Kurt Beichel	700 Universe Blvd.	Juno Beach	561-691-7232
+Mike Geier	1751 Madison Ave.	Council Bluffs	712-322-3202
+Brenna Gunderson	209 2nd Ave NE	Grand Meadow	507-754-6740
+Brenna Gunderson	209 2nd Ave NE	Grand Meadow	507-754-6740
+Dean Baumgardner	2866 Marledge Ct	Madison	608-467-6083
+Peter Young	2116 University Ave. Apt 15	Madison	608-698-2829
+David D. Norgaard	1631 - 290th Avenue	Tyler	651-221-1044
+Renata Norgaard	1631 - 290th Avenue	Tyler	651-221-1044
+Paul Schwarzrock	242 E. 12th Street	Gibbon	651-221-1044
+Jerry Schwarzrock	23504 - 631st Avenue	Gibbon	651-221-1044
+Wayne Hesse	1756 County Road 7	Tyler	651-221-1044
+Sheri Hesse	1756 County Road 7	Tyler	651-221-1044
+Amos Schwarzrock	59293 - 226th Street	Gibbon	651-221-1044
+Jan Marie Schwarzrock	835 - 1st Avenue	Gibbon	651-221-1044
+Mark Schwarzrock	23504 - 631st Avenue	Gibbon	651-221-1044
+Dolores Schwarzrock	59293 - 226th Street	Gibbon	651-221-1044
+Sean Stocker	711 Front Street PO Box67	Morgan	507-249-4009
+Sean Stocker	711 Front Street PO Box67	Morgan	507-249-4009
+Sean Stocker	711 Front Street PO Box67	Morgan	507-249-4009
+Sean Stocker	711 Front Street PO Box67	Morgan	507-249-4009
+Peter Samualson	58307 County Road 17	Comfrey	507- 877-2929
+Pat Pelstring	1107 Hazeltine Blvd. Suite 118 MD59	Chaska	952-361-5445
+Mike Hultgren	11541 95th Avenue North	Maple Grove	763-315-4501
+Jeff Bendel	401 Lone Tree Street	Porter	507-296-4551
+Dan Juhl	996 190th Avenue	Woodstock	507-562-1280
+Blaine Strampe	Box 69 77100 Hwy 71	Jackson	507-847-3520
+Sara McMahon	1125 NW Couch	Portland	503-796-7732
+Alan Vandehey	1125 NW Couch Suite 700	Portland	503-796-7109
+Dan Schmidt	6190 Golden Hills Drive	Minneapolis	763-278-5928
+Jeff Peters	3724 W Avera Dr	Sioux Falls	605-338-4042
+Charlie Daum	5050 Lincoln Dr Suite 420	Edina	612-343-7000
+Jeff Bendel	401 Lone Tree Street	Porter	507-296-4551
+
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+Database: lidarForum
+Table: users
+
+password	email
+LJ2KR8F77d0rLngn0fRjtg	andrew.koebrick@state.mn.us
+8r0IqgK0mEne2TZywE7RAA	exlibris@visi.com
+AfeoFgmLO7MtRb8fAfUkhA	alewand@umn.edu
+77o9HOGk24-OxWzL4-xVMw	lewandowski.ann@gmail.com
+voIOZA1jEE3KgTyQQlXK5w	evere003@umn.edu
+QbLXG6hNvxK7fIazRHsO4Q	dkirkpatrick@houstoneng.com
+ikOzeqaDSm7_jQ48Xe_C3Q	petra.dewall@state.mn.us
+C-rOCRNwaZ6FayNAQWQv_w	cooper_m@co.lake-of-the-woods.mn.us
+1CUCWpkaQxo4z-c5PsJClA	ckirschbaum@fs.fed.us
+VcQfNRu7lbiZ43dOpoySeA	hollenhorst.tom@epa.gov
+ABj3-4m4aRLdEIjxDw8g3A	hayes@boreal.org
+IGnCMmjLkX-fpnUWIggAEA	mtrager@co.rice.mn.us
+nHdcvMCYywoKDeoMMnDlVQ	ktrappe@co.hubbard.mn.us
+SDWalUqdnGWq1V8bhUhdcw	brian.schaffer@minneapolismn.gov
+x8SYeMQ2PYR8CQ3cLhgu5w	molly.martin@state.mn.us
+suwQvBx8u6G08kmNUjMv0Q	tim.loesch@state.mn.us
+OAFDr8u7dpCUXD6WgLdspQ	blueearthoneota@gmail.com
+jYogQwBdAFuViTo8jrZZyQ	cl.nelson@frontiernet.net
+Uf0t_N1oXdkmhU65Qp4-jg	geonp_2001@yahoo.com
+4X6HwbVrcsOnYbw41Wxh5g	emily.resseger@metc.state.mn.us
+KFKplnNGzOZ71A9BWHaw0w	nancy.rader@state.mn.us
+C0EEwGgcfHIJAiPPpXlRuA	cameron.gjovik@state.mn.us
+q31Aznxwq1c0iF0ff4VuyQ	julie.westerlund@state.mn.us
+bqIxk_fccn3JiMAv2NrAJA	glundquist@stonebrookeengineering.com
+pmyxqF6jtHN9kyTptTzXZg	gsjerven@allete.com
+yijfTynQ72Ss7agb57MeqA	nordbad@gmail.com
+BLFcT3hJzthGtWnCDOX1aA	jlewis@houstoneng.com
+UZ_L5qDjeLlgAht3NCLLXg	randy.knippel@co.dakota.mn.us
+bhaQkEtKVoxhRzLI7e6Qwg	steve.kloiber@state.mn.us
+CoTxw-l9RN3fhn_lNuHd_Q	jbilotta@umn.edu
+dQECCHyNBjmmajiH-Dp4fA	nels1945@umn.edu
+Kc5mXGUjlbpzHDV5b8H57A	murph636@umn.edu
+apxL8ltnePRy-tLAku6Z0Q	brutz@cityoflittlefalls.com
+vtNZHCxVDlaJVMY6lB_kmQ	ejensen@eorinc.com
+qkpvGuJ40Mo8IogIBMiqlw	ashley.ignatius@state.mn.us
+mpvrGDHmm3EegHj5iqPC-w	chris.horsmann@tkda.com
+Ar2f0IxZUO9O_DV0w49MgA	donna.walters-nelson@mn.usda.gov
+jD6ejg5kFWwrPOwFqh5UBQ	loriclark123@gmail.com
+n36ebe63GRfeFeY9f2e_qw	jslaats@tnc.org
+f01QyFDnIQJTGoKSuP5PzA	sean.vaughn@state.mn.us
+VlJT-ojy0Wxq9yX-XfYrjA	grayc@duffyeng.com
+WILhzsLvM2eDL10M1KXSMw	dan@ajainc.net
+ypw8p1ZkYff8pdfdpu0KxQ	jones@archaeophysics.com
+DmlF4Qd1asaO98LR7HlCHw	ben.gosack@gmail.com
+qFhH1EDy-CdiZhglZvcniA	Vince_Capeder@fws.gov
+boyJRbW5oa86KkgH3yIFpg	bogren@mcghiebetts.com
+Oio7Cd__cRT1YVOwAJ4ujA	longx598@umn.edu
+faceN9WwS59BFAQ1uk3oFw	MapRantala@Gmail.com
+q0fn1WrTWECcfDCZ1GZLjQ	chad.schwartz@stantec.com
+DJ5dT3WT-Do_ezcA03QUdw	lmccauley@usgs.gov
+cVrp_fByjJg6gba0PqzQvQ	neelanga.w@aggiemail.usu.edu
+czpA1fyKxvgz6Y0qkhMMKw	karen.bonde@state.mn.us
+q-wU-avuB-EJPYTrVkIHFg	jblix@wiktel.com
+ekz-SbPnaCJJPX6X2NeyxA	rbarnes@umn.edu
+g0TiPweS3IftQa9k5wVIFQ	lilliulilliu@yahoo.com
+pdsHLCshlQ8zxyUBJj941w	quechaokafeiyuanwei@yahoo.com
+_SWnfEBoESVwku7qfwqC_w	brent.lund@state.mn.us
+_GaRHNQNk6VMNSZgzQGy7g	pete@lmic.state.mn.us
+mPLa2cQobTdObcO4x16jLg	ereryrtujytj@outlook.com
+AxrPJEKzE-t_pW4d58T6Yw	vivianvivian312@yahoo.com
+K3vfTmmnAd6pnxVE1t_EjQ	renruofeng@yahoo.com
+MhxCNxFj_iPUJsRZqAMElQ	chaoqiqinghahha@outlook.com
+ikqnpA_bKd0BDnY3cWqEJg	lance.erickson@co.stearns.mn.us
+Gg7khXazd-DeIWM4RX06dw	nicole.bartelt@state.mn.us
+ZnM1WgUqsRTJsujS3u3YPA	kun2001@gmail.com
+ie9KBqVuQaNG9CvFGMqKJA	good451@yahoo.com
+60I4VUqw8jQdsPsXixycmA	wangbadanwokao@outlook.com
+oTidD-Oasd9c48mYXBp3SA	oscarlonely1@outlook.com
+QY07k51n8ksLbrn2GfFbFQ	kuailejudy@hotmail.com
+IroHeJnWvKcagDlSW9lAQA	lancanyin@outlook.com
+h2AcjSccHHaDsUvVrL8R5g	jauch@houstoneng.com
+wWTQWqHlIYKKBeWy3JDOQQ	dfdgdfhdfdgdfh@outlook.com
+p5i8hyaBXT_vYIQn5r6N_A	brendon.slotterback@minneapolismn.gov
+Qk8XIQGBHwAYGm8_cvxW6Q	chenren520@outlook.com
+ZSqNLT-LJbC4RzoTy_1TTg	renruoruo@outlook.com
+4a0K4Gjv8-VVrQHhq1DfLQ	renfengfen@outlook.com
+AfQ6B2CpSgGTvdoOrz4MOQ	chenliu321@outlook.com
+ghtKgzbSdU4Mz9_2VHagAQ	lijierenhenzhongyao@outlook.com
+lzqSw2uVLdctry6OS6el_A	yolandar266@yahoo.com
+qii1GIKN9FaFAEJ8t3j5Dg	harvey.tjader@state.mn.us
+mygE9Yc2AKa3TkiLx4-k7w	spaztazman@yahoo.com
+At3CRYs33wCF_jgxo2lpIg	chushaoyou@outlook.com
+KsSPr8dBBzCixM5wXe7tvg	hjijioopuuu@outlook.com
+iw32NXot2yq783db7L3l4w	Jesse.Preston@state.mn.us
+GRfRuWF0RRESgeI_th8b2w	niposen@outlook.com
+pbWMXlWL3UsrY1HyIu8QMA	azimubd@gmail.com
+qBSJYjMURds3Xdgxu5CPYA	tipsary@outlook.com
+3R3NeTXvJuUU0PfUA2MMRw	awalker@lp360.com
+PRdSG3Fiw4dWFoM3jymsQg	joshua.rebennack@wsn.us.com
+F5UYOFj3lX36SRRHy01vFQ	1140177471@qq.com
+3UjBsH0rifTex2OQQmwDoQ	alibechia@hotmail.com
+eCeDRxgj9TveZg3DXsYLfw	keith.pelletier@gmail.com
+AiZF6J7O2_ao7HSvtK_3kA	suqingche@outlook.com
+prh8cXGXq72771uaF9kIGQ	suongsovann@gmail.com
+Y2ApzXKY7qKguPM6gHtvFQ	clinton.little@state.mn.us
+Zaflq_XbMu_DKcuI9vF-ZQ	haleh.shenas@gmail.com
+5RdsEul9EFHB9gUztHJUWQ	lsketek@outlook.com
+qyW0bqHozUqxJ0S1j8DTkg	laeotei@outlook.com
+QkfjummCG40Ffne1lyMGAQ	oienwke@outlook.com
+-YtttDJ9bagftmJuOIP07A	adurisreenivas@gmail.com
+iHzLf28IdcJ6UavdGlZ6WQ	alex.waltz@appliedeco.com
+yCXdWO1lv4iHvqpEv6O0aA	kyle.wikstrom@gmail.com
+S2uCcJYpgUwB9I3t_aKLQA	blindebak@mkec.com
+afE4d5eac0J2G6gfaozlEg	mbudhath@nd.edu
+U7H868gM2YHfhAQMAf0W-g	martinm@stlouiscountymn.gov
+5llkN0TYSHHfeC6EhCghmw	zach@srwdmn.org
+wgyQvMw7rs6coQmdhEzt-g	realityqianlan@outlook.com
+S4vB7Mo_RME0NOn4MRn4Pw	samuelzelp@mail.ru
+YB7cFfRMP4WUG8N3UnCe2A	ricardolisa@mail.ru
+b6HJ3IBsuqonp4JY9zTS6w	egorm2002@outlook.com
+4P5ufPhEvTvMZb3scUFsgg	o.lik.a.so.din.a.s@gmail.com
+27ifeMwO6fK9uLSoZh-i-A	MableJits@mngr5.xzzy.info
+EffriXg_r8WmGPTf5WvSRw	artemd1nn@mail.ru
+IE57udYlwR7Rz1cLmXurUw	serasomas@gmail.com
+22lTWaA9-mcf2zFh0kuI7g	clonerbigsmall@yandex.com
+6i3VbZp2mRXzXOhNXVulVw	lsandwick@aol.co.uk
+Mc_YLO2h3LtuEPmewq-u7A	zhiryakova_afrodita12@rambler.ru
+fvNbYjS6lA5tswPXskEFSQ	jerryoneil3@aol.co.uk
+UvyHCm_0U-2kwkddQX_okw	vsevam@kuwel.ru
+5LE8hKQbZzqr1I6tiWbPFQ	teddyhamsy@aol.com
+_j-P944sctdL6kjYP4v2wQ	plaxpol@gmx.com
+BnwO7gXPwB0YHIzq2OW7Mw	patricknuh@mail.ru
+qej2UceVovEPq2iJs3JqdA	gregorymn@mail.ru
+ExwNsIRFv4e5bIccR7kIpw	erastog@mail.ru
+oSYU9tSunT3Ot1kkoqJpKA	mironofffff@hotmail.com
+ZJw2gQVM1LrcxC7JbsgwJA	jibsajabsa@outlook.com
+F5uS70rwtvE9Zg9Nm9v4IQ	boris19.7.7gorb.u.n.o.v@gmail.com
+Vxm3MLBcD5oCR3ynUtxd3Q	sherylasgup@mail.ru
+cbgY89XZoewd9TShdygaoQ	alexsambatos@yandex.com
+r4SJtRG1uIxNCCrICdeW9w	ilondilon@yandex.com
+ZQBoojtKle1UaaqH2a4Dmw	izyabell@yandex.com
+Tv6V7xk-Q9uS7dOwE9mKjQ	post@tompinkerton.com
+NkLOn_QujLXzidPumEh7Lg	katy15092015@essaygood.com
+0pMbJlBjH0XHimL0WfYhog	nikl.leonade@yandex.com
+6f1XY7Pdvh6A1ynHJnao2g	sergiotono@mail.ru
+sNwbG3ZyllGao9rACF-Tkw	p.l.en.ki.sf.i.lmb.y@gmail.com
+heCya_tqQXDZ4_svN1V63w	AndrewTen@mngr8.xzzy.info
+5Wl1LXUqrUFhYTjiGhccnA	dorofeevatioceee@yandex.ru
+_iW5E6RhkG6dOjmJSGf9QQ	remontvodonagr@yandex.ru
+nZbrxksrh7VZf9XfZLFOmw	post1@texsovet.ru
+7AkBLV7eOKu7ydezV_2s-w	dcsd21@mail.ru
+uBrmpMncv7X6KsELJ5t7-g	post9@shinebar.ru
+lL2pak95-l-iGWDCWZye7w	gfyhoyu@outlook.com
+qwRtbppurIjUk5SXZFWdzg	sainaa_gis@yahoo.com
+bQqyR6DCuTpEy3rmZetaNQ	ddsdsds_d@mail.ru
+ZHjUqJNk0MyLcRrGpQt6Ig	barbarassn@mail.ru
+OU2N3XmdiKO9NaMd2-eeMA	GregorySeag@m9.hoststo.ru
+9qKj2wI7MPl7Dpx4LzHZeg	aboriginalphhs@hotmail.com
+P42GLmm0d6rHNFsdMUdzqQ	s.h.inamins.k2015@gmail.com
+3i2y5KeAlwGF6qDRP2KxVA	anthonynevan@mail.ru
+_clS6yNPRkccwSiDLKaU7A	renshengs@outlook.com
+tCnOfMl5kz5we4X48ybS4w	inetryconydotmail@yandex.ru
+dxThsGBgJ6wu1CBL49l8ig	sa.dbm.n.d.12.45.6@gmail.com
+PFbdKDMglJIpK-3YQqaCsg	s.adbmn.d.12.4.5.6@gmail.com
+wa4skH2-gk4NV57bdpyhHQ	sadbm.n.d.1245.6@gmail.com
+BmONsgfpj5AwBoHyRLOMtA	sadb.mnd1.24.5.6@gmail.com
+8yQVbWAXBdl7XTAHqrn3Rw	charlesortnp@mail.ru
+o1kd8xu4W49j0mQ8hehztg	s.a.dbm.nd.124.5.6@gmail.com
+Lhr_VkGlKfpRaBPD5tw83w	sad.b.mnd.1.245.6@gmail.com
+HXcDeBB006Lmb8552JTQag	sadb.m.nd1.2.456@gmail.com
+PujUPSgS5NUnP0IyVvAxqA	s.a.dbmnd1.2456@gmail.com
+1zYoLwj8l92x8RVZvZG3ww	sadbmn.d1.2.4.5.6@gmail.com
+WurEj3enY3tmufclzfv08A	studyprojec@gmail.com
+RaT0dmTNAqcq8cR3NOfz8g	ukleeva82@mail.ru
+uYFzaQGEMoTnqW0R-W_yqA	myblogik@ukr.net
+ti8Ymhehpu7v-Gw35ijW5A	den19941967@hotmail.com
+CGWXUqEdkl6cT4ZgLd2mFg	narayankayet@gmail.com
+dsmqVj7LugGGJyJklTO3jA	sa.db.mnd1.24.56@gmail.com
+6rIqsLL25xSxxn70NPxikw	busas79243@gmail.com
+zVSJz0td3Kx0C2rJw4Bx2g	hrenvamya@yandex.com
+MDxmqZrsdDg_NlWJm3DEwQ	resaqer@yandex.com
+en2xVGnh9XNDC5DglBNCvQ	vxzh9060@virtuf.info
+2l9BKLBgPTNcDPOD1Sq7sA	lolli99921@yandex.ru
+tOAgBMP8toOUYebbudU0yA	liiskrin@yandex.com
+zno3OXTTRBBJt4R_izNYrQ	hugmag75789@gmail.com
+Rc3tEZxllgxU8_Vjb9fiRA	sad.bmnd.1245.6@gmail.com
+J3W863Pl3IOXm3dtFztSCQ	s.ad.bm.n.d1.2456@gmail.com
+rrXosFRV9aQTOYvdu7IUyA	nordews@yandex.com
+HwPZl6mDeVWG1FdMHxNoEA	australianbabymen1995@gmail.com
+I5SUpbXp21LgNh-ZChy4Qw	sadb.mnd124.5.6@gmail.com
+I19cok33tACrqpW_rZ3NEg	sa.dbm.n.d.1.2.4.56@gmail.com
+CSth6NOqpVT8I2L_qfj9gg	sad.b.m.nd1.2.4.56@gmail.com
+O7L8w_h-PE6cyo6aFqQ36g	s.a.d.b.m.n.d.1.2.4.5.6@gmail.com
+CoGjGIynuJOofCLrjx0Dww	s.a.dbmnd12.45.6@gmail.com
+3AxUxDM8NlqyDlfh1t9dJQ	s.a.dbm.n.d1.2.456@gmail.com
+Rjs-2o4mOU0EMijOh4AIkA	jacob.baumler@gmail.com
+rHLS1O7Vv_69hFMPeRf9TA	nilna@sblcorp.com
+7J6D38jo_Xb8tydoqDC7WA	ah.mok2001@gmail.com
+M6ySixX8OlR0XtaLSXKvRA	sa.d.b.mnd.12456@gmail.com
+l9WA5__2043QbU5lU1n8Nw	s.adb.mn.d1.24.5.6@gmail.com
+GUqLgNbdTzyvw_JvdoyfdQ	s.ad.bm.n.d1.2.4.56@gmail.com
+i0kwhDF5BcvZyi4yorQQQw	s.ad.b.mnd12.456@gmail.com
+nyuHt26U3njfk9sGSU1spA	thomasKa@mngr10.xzzy.info
+KEq0iKUGxPm8lM8W4SNL3A	reufdss235e@outlook.com
+UPeVV4VciFxZaXnxDgGAhQ	jgu.rhdssd.6.5.27@gmail.com
+XexzPOnSDftmZwOTG2rr0Q	j.gurhd.ssd.6.527@gmail.com
+EqxESXUk6dPirLUJkA-CXg	ds.fsde.rw.e.r.w@gmail.com
+1I3cznEsfBsVpt2N2BjOyA	dsfs.de.rwe.r.w@gmail.com
+N5H_2WqsRL1Wi2uQgCW1BA	viredyloyuq@mail.ru
+69RM57VPmFtZ8X4Hdl05eg	drynhilary@yandex.com
+g12M7wL8rBvU638M8BQUwQ	markseeleyuk@gmail.com
+fVyjDgcVIBPbBA8dZKb9ng	objywl228@mail.ru
+o9Qa5Zd6ljwB1oFt9PXmng	anthonydics@newzeroemail.com
+K375IGlDijTPd3O2S7nlbQ	stroitelstvo2017@yandex.com
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+===================
+Database: WEB
+Table: Subscribers
+
+password Email 
+5I9TwRs7Oba0k pdolson@che.umn.edu 
+5ICUB6gkYXbZk vpofmg@mlecmn.net 
+5IdohCYWJa62I kelley@heso.state.mn.us 
+5IOH6/9ejUOGs anne@stlib.state.sd.us 
+5Ie45iu.RrWs2 carrfran@uswest.net 
+5ITz/RhUWpaBk Jeanne.Yordi@dea.state.ia.us 
+5Iw2KODqc5fWw cyoho@apec.umn.edu 
+5IGMP6XS6eMkI diane.cushman@commissions.leg.state.mn.us 
+5Ibh0E8aMHSuc sammyboy3@prodigy.net 
+5IqhVi5W3RkIM bdusek@ccht.org 
+5IMuErJXnQYM6 ann.sessoms@state.mn.us 
+5Ixd2bjxUCTj2 apages@asianpages.com 
+5IynRMgV3BiXU bolson@wavefront.com 
+5I5wdlpwMBepM rbolin@psbpr.com 
+5IdhcDrSHv9nI charles.enter@co.brown.mn.us 
+5IeO7veY8DRpA bill.schnellman@state.mn.us 
+5IK/MC8P0gBXI bret@pucgate.puc.state.mn.us 
+5IR/aUBVYzZKg bruce.pomerantz@state.mn.us 
+5IQ6pZodOsrTQ marykay.watson@house.leg.state.mn.us 
+5IlT.HJdLs/Eo carol.wiese@state.mn.us 
+5Is5wpIGstbJo mail@mpr.org 
+5IGvCdufnpnVE c-boon@maroon.tc.umn.edu 
+5ICehjxs.q7/w cheryl.hoium@commissions.leg.state.mn.us 
+5IxWdsEL0stfg maplethorpe@heso.state.mn.us 
+5IWko/xBZfTpw christa@mail.ntc.mnscu.edu 
+5IoRLyA93sx1c pat.stasson@state.mn.us 
+5IkSjfOc4U9Rw colleen.landkamer@co.blue-earth.mn.us 
+5IinzlP5BCidQ constance.peikert@co.ramsey.mn.us 
+5I1tQScQI9svM dang@mailbox.mail.umn.edu 
+5I20bQOoG467I david.a.peterson@startribune.com 
+5I7NdW88C3VQ6 david.kelliher@mnhs.org 
+5IYImOQ7fQTRo coveyou@dps.state.ia.us 
+5IwQeOvjjv4ME Marcia.Murrow@idom.state.ia.us 
+5IeRTYysQ/fHA joe.elis@idop.state.ia.us 
+5I55echlI/xdc wuolu@mrs.umn.edu 
+5IOsrf3Zzf4LA dkerschner@co.doc.state.mn.us 
+5I85OohqPRPxE diane@minneapolis.sgi.com 
+5Il9VSFodjOUY berna.scott@health.state.mn.us 
+5I0QX0GfJL0ao diane.drewry@state.mn.us 
+5Iu6ncfK2RsvU dicks@pubdef.state.mn.us 
+5IqF/oKuMDnSk donf@msl.state.mn.us 
+5I764yPBkGzjo dorothy.bliss@health.state.mn.us 
+5ITWM0rF7Nu.E duanehebert@co.stevens.mn.us 
+5IXLwEIrWvGVc ellygh@tc.umn.edu 
+5Ikc9KViHZ9aM edit@legal-ledger.com 
+5IhFdVdcbQqyE elaine.collison@health.state.mn.us 
+5Iv0RJmyJl/L. ecs@wilder.org 
+5Iv5dHANY0rqc ericson@pioneerplanet.infi.net 
+5IAngXM8bDOzw felicia@russellherder.com 
+5IaY.vcDUuIpQ grh@wilder.org 
+5Ilh0uHI3o6IA lewis@paulbunyan.net 
+5I1UeS3ygroO6 hleich@linfield.edu 
+5IFvPY2BvXAcA jennifer.hance@.state.mn.us 
+5IbfbXL2WxmWU joseph.spitzmueller@.state.mn.us 
+5I0PrFNQfv3NU jengel@mcae.k12.mn.us 
+5I4uu/h8/i04E jane.schmidley@state.mn.us 
+5Ik.mSWEuNlkA jcoleman@bikoassociates.com 
+5IcVnobVoyIPM jmitchel@ngwmail.des.state.mn.us 
+5IaBaYyonSnZA jeff.schneider@ci.minneapolis.mn.us 
+5ImNDmAcggrCQ jill.o.weise@state.mn.us 
+5IqVS.Hh2J4Qc jggoffusa@hotmail.com 
+5IUDJYzgAVKsU jo.vos@state.mn.us 
+5I4xc7w.ztyGU jbartell@usfamily.net 
+5IvQ78U2bmVDg nancyj@gmdca.org 
+5Iq2mvlwRut5. jody.hauer@state.mn.us 
+5I2EfZfWtzE.w joe.lineweaver@state.mn.us 
+5Ikso2IdZOHfU john.berglund@state.mn.us 
+5IQIOssl59wr2 dmyilek@cloudnet.com 
+5IqJ7UPwcHvv6 john.doan@dot.state.mn.us 
+5I/hkXVqjcNIc john.fisher@legal-ledger.com 
+5If6z13.dJ0yQ middlej@point104.cbs.com 
+5IPtxH1znAvJs jmulcahy@co.scott.mn.us 
+5Ik8FT/vv8XC6 john.wodele@state.mn.us 
+5I/.oGN3tmpcc joy.carmona@alamn.org 
+5ICWTFLNMhhF. juan.martinez@courts.state.mn.us 
+5IQCDmSQF6ylY jamyhre@nrginc.com 
+5IxZRUeLYMIGM setnosju@mctc.mnscu.edu 
+5IKoo3aXb1dIo julieanne.seiber@stpaul.gov 
+5IbTAt1X9ZuJI kfraase@farces.com 
+5Ik9tQ6Yj68HQ karen.harrington@co.dakota.mn.us 
+5IB3SECdd9Ncc karen.jensen@metc.state.mn.us 
+5IbO17xBrcxXs kbrausen@ngwmail.des.state.mn.us 
+5IO59LlSB7SkU katherine.carlson@pca.state.mn.us 
+5I6udGsLwLSyc krettig@che.umn.edu 
+5IaSana9TBUIg kathy.gilmore@state.mn.us 
+5IkkTFaw4q59g guthrie@ties.k12.mn.us 
+5IGKsVLNZXiWQ katie.nemmers@state.mn.us 
+5IN8C2bA9are. keith.ford@mcda.org 
+5IwLPwenHwjHU kelly.raatz@health.state.mn.us 
+5IuFrrKRZRhGk ken.smith@ci.stpaul.mn.us 
+5ICl03/4PBAwg bswanson@umn.edu 
+5I9STrJnSg4PA kim.bienfang@state.mn.us 
+5IbDb9DgTfBlQ kheffron@library.leg.state.mn.us 
+5ICrJGEgHc0vo kim.miner@health.state.mn.us 
+5Ix4Qe/Zk8t.2 kurt.augustin@state.mn.us 
+5IXi0XbzolGds larry.eisenstadt@.state.mn.us 
+5I64pYjYmdhOY Lee_Ho.RISD@notes.mdor.state.mn.us 
+5IiHJF0dTgoXA lee.schutz@mnplan.state.mn.us 
+5IB.VLkPBNWXU onieburns@hotmail.com 
+5I.m.4VyRQ8ik lesleelane.Hoyum@state.mn.us 
+5I8WdnK3xqvAQ leslie.mercer@so.mnscu.edu 
+5IvnObygzr0fg lila.moberg@state.mn.us 
+5Iih0B.dQGGYY linda.kohl@so.mnscu.edu 
+5I7Wbolmzyb/g lataylor50@hotmail.com 
+5IJ2pTK5EovxM elizabeth.hartmann@dot.state.mn.us 
+5I.0VkhUBX70E lynn.moratzka@co.dakota.mn.us 
+5Ib6TxPjn2YRQ mevenson@smtp-co.doc.state.mn.us 
+5IcRqY4947Nxg maria.rogness@health.state.mn.us 
+5IA9VgaiIvMUQ mbruin@umn.edu 
+5IDOtVe4rL/ZM mbjellan@gustavus.edu 
+5IZus7auNgIYE mary.leier@mnplan.state.mn.us 
+5IHQkFjlm0NNs mary.miller@state.mn.us 
+5IOiQWoS5zBzs melvyn.jones@state.mn.us 
+5I.3TPJ7VPHQc tcdc@hcctel.net 
+5Ih.MN4diDS1M wagner@centerpointenergy.com 
+5IeMUONF73bGM michael.watts@state.mn.us 
+5IlAE8urk2L/I nancy.kern@health.state.mn.us 
+5Iwwszjw2xDoY nperron@hclib.org 
+5IhgNHKGOd9E6 nancy.rooney@state.mn.us 
+5IYFBft6/wrrA pfenton@state.mn.us 
+5I/t/UTb3Iml2 pam.newsome@dot.state.mn.us 
+5IcRVxaXrZlns paul.wilson@house.leg.state.mn.us 
+5IWLWyVI2j/jI phyllis.wright-slaughter@health.state.mn.us 
+5IpO1.IjWOO.o rlafleur@library.leg.state.mn.us 
+5IhxmlX6b5wG. rachel.tschida@state.mn.us 
+5IeOGnGM3rG2Q refdesk@library.leg.state.mn.us 
+5Imi1ijkMGock reggie.david@state.mn.us 
+5IDf5pQmsaGLs renee.gust@co.hennepin.mn.us 
+5Ip.YF//8IM3E consultexc@aol.com 
+5Is2FW679lQN6 ROGNEM1@health.state.mn.us 
+5I6FMZOGKzo12 ron.harnack@bwsr.state.mn.us 
+5I2BcUwDDM396 ruthann@mtn.org 
+5I79i77IjGzmE sandra.l.carlton@state.mn.us 
+5IiA3nvvTImmc sara.klise@state.mn.us 
+5I./R2g4DEmsQ smcdanie@ngwmail.des.state.mn.us 
+5IlG0XZrkJKow SGNews@csg.org 
+5IxQCLFA8Mk3A snelson@csbsju.edu 
+5IxdeebVqgFYk shel@mtn.org 
+5ILs3VgUr9Rc2 stadams@ngwmail.des.state.mn.us 
+5ItLB8EsY.XTI steve_browender@rdale.k12.mn.us 
+5IoYLt6GB3rTo steve.lebeau@state.mn.us 
+5IkcgRe263mRM sunday.olayinka@state.mn.us 
+5I7OUI3VzlQ0A susanne.maeder@mnplan.state.mn.us 
+5IlbW36/1ubT. TBRICK@yoda.disabil.state.mn.us 
+5IHeDgHv3FQcg tom.walstrom@state.mn.us 
+5IqzXXAsiiz1M ullas.kamath@state.mn.us 
+5IEZWBh01daNE papabearkweldon@yahoo.com 
+5Ial3huvXCYu2 vicki.leaderbrand@mail.ntc.mnscu.edu 
+5I9rZ9BUXJZDA gail.ryan@state.mn.us 
+5IMM5bun3XrCg wdn@luminet.net 
+5I6EHX6pIZbxg wlconnelly@stthomas.edu 
+5IqCqR7aM9tRg wilson.bradshaw@metrostate.edu 
+5Iye3B.BtEz06 drohr@mn.rr.com 
+5ISOf0veEwGC6 bmurdock@terracon.com 
+5Iwe/JRpwEsfI Sabrina.Lau@co.dakota.mn.us 
+5Iqte608sejpw tomv@wamnet.com 
+5IuvZpaPi7kdA kscott@stcloudtimes.com 
+5I9UOn.5lPMDo joyce.swonger@state.mn.us 
+5INaoZXezq1ZU jim.schwartz@state.mn.us 
+5IX9wAsLVWVqA sandra.carlton@state.mn.us 
+5IHaqmU6Stt2E emily.farah.miller@state.mn.us 
+5IG/c9X86.2dE michelle.kibiger@house.leg.state.mn.us 
+5In81T3jKwVSU carol.walsh@state.mn.us 
+5I396UVQH42Ao todd.harmening@so.mnscu.edu 
+5IelEzHr9FV/g shopdiv@rrv.net 
+5I2WMXf71RdXE jhaskard@hotmail.com 
+5I/AS3NTNmFw6 blair.tremere@house.leg.state.mn.us 
+5IPwGvCdEAD2Q deborah.junod@state.mn.us 
+5IKnPuy8Av2NA Virginia.Sande@house.leg.state.mn.us 
+5IfPNAZn6r/h. dannae@senate.leg.state.mn.us 
+5I/Yw2GHi.KfI tracy.fischer@house.leg.state.mn.us 
+5IE1lzXQGmMQg valerie.dosland@house.leg.state.mn.us 
+5ImVR54.AKKS6 cbury@mnsu.edu 
+5IIys7c6wnPSQ akweego@arvig.net 
+5IFjlfr40GkIs madore@frontiernet.net 
+5Il3bBgcsZ3AU michelle.wernimont@house.leg.state.mn.us 
+5I93dvjLhncMc natalie.collins@health.state.mn.us 
+5IwQX6b2BmaY2 debra.burns@health.state.mn.us 
+5IbusFadfXZSo lonna.beilke@health.state.mn.us 
+5I1XujfefYa1M mary.zanmiller@state.mn.us 
+5IjRh6FBD/AB. wayne.carlson@health.state.mn.us 
+5InwstdzS/U46 jerry.wambach@health.state.mn.us 
+5IEf6jzsS89FY gail.gentling@health.state.mn.us 
+5IB12HkooCa3k maggie.donohue@state.mn.us 
+5IV5I65/EslFo sheila.brunelle@health.state.mn.us 
+5IxvCwKYJCk5w jane.braun@health.state.mn.us 
+5ILNExFgbZxKM geri.maki@health.state.mn.us 
+5I/e.aKKkCOi6 wendy.kvale@health.state.mn.us 
+5I5703jkkgFZM pat.lind@state.mn.us 
+5IqM232gV45QU gloria.koehl@health.state.mn.us 
+5ICPETYVQwqVI terry.bovee@health.state.mn.us 
+5IqA5YVXN9OQI laurel.reger@health.state.mn.us 
+5IJ23jv4Rq9EQ lee.habte@health.state.mn.us 
+5IsrztbhYkLIQ CHUCK.GIBBONS@STATE.MN.US 
+5IK6PoeMxOH2Y tom.johnson@health.state.mn.us 
+5IF.c0RiH93OE linda.keller@health.state.mn.us 
+5IVhYDPnXk.dY bonnie.wendt@health.state.mn.us 
+5IDICDT7txwaA ann.kinney@health.state.mn.us 
+5IedvRicazoc. lisa.pogoff@health.state.mn.us 
+5I/AcdE5dp7o2 dianne.ploetz@health.state.mn.us 
+5ILFhNPq7RYT6 david.johnson@state.mn.us 
+5IQPl/ZHsLgf6 tom.hogan@health.state.mn.us 
+5I0Xm9G5MAKsA michelle.brasure@health.state.mn.us 
+5IPAddgtdNpqs daniel.houg@health.state.mn.us 
+5Iu/4VO7Q/IxA diane.jordan@health.state.mn.us 
+5ITYbeX3J6MTQ silver@rconnect.com 
+5ITBQyLEJMOck brenda.holden@state.mn.us 
+5IY3qt7t3unCo Elisabeth.Kingdon@health.state.mn.us 
+5IYhyE.ZWqcLs daniel.billings@health.state.mn.us 
+5IZ3Nx2yOPcsU lori.ross@health.state.mn.us 
+5IyLYN83WzY8. anne.hunt@dnr.state.mn.us 
+5IWH/QMLZ6pdo juliebunn_us@yahoo.com 
+5IeYCU8x5ThhE mckeen@sppg.com 
+5Ikyd4Y1gDY/Q renee.anderson@state.mn.us 
+5Ig1O1tmCPZjM mario.hernandez@state.mn.us 
+5IhsPZ/mIwtS2 rlichty@d.umn.edu 
+5IaaAclogfljg k.millet@century.mnscu.edu 
+5I5DpSFr4DdYA valeriehasleiet@r-pschools.com 
+5Iu5Lo8z3DZPk ayersey55408@yahoo.com 
+5IAU5nVCpuAVc mn-politics-announce@yahoogroups.com 
+5IE23a.ObF3E6 pittx004@umn.edu 
+5IAyzRufjRKwg nriesgra@arrowhead.lib.mn.us 
+5I1Bw1L66aysg mcaul@startribune.com 
+5IymrtK6MKaSQ bamberg@dfl.org 
+5IxW/W5sqgPuo anoyes@wcmlsv2.washington.lib.mn.us 
+5I7j4nU.MFdr6 kbearman@isd.net 
+5IlqZQLjT3Gzw seng.robert@dorseylaw.com 
+5I34nFU4syoqU marilyn.grant@health.state.mn.us 
+5IrTxNAL3LJTM bob_wittman@rdale.k12.mn.us 
+5IOgwr0JMJgNU bryan_g_goerger@reliantenergy.com 
+5If2/QtZG7SXI KCooper@Carleton.edu 
+5IY5izaKQlDnk jeff.olson@state.mn.us 
+5I5Q9MxvVxdM6 wcraig@umn.edu 
+5IjSTYdhiXZN2 mimosamom@aol.com 
+5IL.96s0wvz62 jim.martin@metc.state.mn.us 
+5I2GRBYsFXfvU Diane.Buszta@mn.ngb.army.mil 
+5IChOT0MQDmEI denny.brott@dot.state.mn.us 
+5IBP8gXm0lBIw kathy.yzermans@state.mn.us 
+5Iv.RIEm3BWsc jdowson@paulbunyan.net 
+5IQqX0Jd.c3E2 deborah.durkin@health.state.mn.us 
+5I0KhpvLEy8hY xpress@prairie.lakes.com 
+5Is1EBPdq6EeE jtdonovan@qwest.net 
+5IVguMTOEUTdo rbolstad@kenyonwanamingo.k12.mn.us 
+5IPwJ5NTgZ6kY kbarenz@state.mn.us 
+5IQu7JJNIB.m. tlyden@bitstream.net 
+5INm7qb8zeBwc rkbuhl@aol.com 
+5IPwZF11hQxjE jmorgan@hclib.org 
+5IIYNiXl5QYwc manderson@hclib.org 
+5Ip7z0a9syO9U lynngi@aol.com 
+5Iry/4FOAksBM eanderson@hclib.org 
+5IIiXzm14oNgI dingham@hclib.org 
+5IZYDhhb.Xy66 jan.sandberg@state.mn.us 
+5IKEOgNkEeXwI dischn@unitedwaytwincities.org 
+5I5HKpBKZuktk Pfparilla@stthomas.edu 
+5IKWIu.KbhJ5U jlangmo@washington.lib.mn.us 
+5IX/7rzLwpDjY Bob.Hagen@co.hennepin.mn.us 
+5I1Sx3GriurI6 shalena@stcloudtimes.com 
+5Irq5ODursSHE brook051@tc.umn.edu 
+5IloiE58DC2FQ kate.severin@state.mn.us 
+5Iy3RWE9.7GeQ karen.welle@health.state.mn.us 
+5I6NVQxIFo7So JBirnbau@heart.org 
+5IwACE/KGp8vE Carole.Charbonneau@state.mn.us 
+5ItDQOZ2TWS7c Peggy_J_Schons@reliantenergy.com 
+5Iu6TSrC271oM clarence.turner@dnr.state.mn.us 
+5I1BJsUrOQwqw Jim.Franczyk@state.mn.us 
+5IHY62SVwYqS6 WLCONNELLY@STTHOMAS.EDU 
+5IRn.CY2Udb7M jerry.holland@dot.state.mn.us 
+5Iu44ImF5giyk mark.kleczewski@state.mn.us 
+5IE9VRzbXcfCA jerkel@mncenter.org 
+5IRCM4Cs0DhXE jbremer@cbiz.com 
+5IaOJ.dLxdpNQ phydev@swrdc.org 
+5IwxvAM7k8sHU barbara.skoglund@pca.state.mn.us 
+5ItJAgSr3ULpg bpritchard@GREnergy.com 
+5Idza7wN4I1Ww info@jrlc.org 
+5IsVKxoqoDRmk cmhp810@cloudnet.com 
+5IucufBG8NcBk mho@co.rice.mn.us 
+5IjhKbhK3N1rY toby.madden@mpls.frb.org 
+5I1fQIcfv4Otg adams004@maroon.tc.umn.edu 
+5INn2vF84iF2c kbranstad@owatonna.org 
+5IhlkcetMpD9I donlloyd@xc.org 
+5Ie7KzcsZ.v9I policy@mntax.org 
+5ImKG5BQfsu/U Jill.Sondergaard@state.mn.us 
+5I/M.QBiQGIhk vhelgeson@hclib.org 
+5ICqlyDjA7GYU don.broadwell@co.blue-earth.mn.us 
+5IHCJ4ydyLAZ2 darylc@gmdca.org 
+5IP6mSdCAZYiQ erkkila@umn.edu 
+5I9qHWvqJtcVs rmoline@gac.edu 
+5IkyY5oaBELw6 nancy.devitt@co.hennepin.mn.us 
+5IiSxajjsJOfM sgbphb@aol.com 
+5INIg.6vjQzso jeanne.olson@state.mn.us 
+5I4J1NkiNObdU terry.kayser@metc.state.mn.us 
+5IHMTpcXSZu/I ktomlin@osjspm.org 
+5IoJLRTkHmgIw ljanatop@aeoa.org 
+5I.8iho9P4K9M bunnett@heso.state.mn.us 
+5IO1JovZJ8Fm6 mavisp@co.sibley.mn.us 
+5IlFvZoOgvWQE maryalicetreacy@hotmail.com 
+5IcqfitqtXAFQ ron.sushak@dnr.state.mn.us 
+5If9pVIIqN/rQ petersonl@unitedwaytwincities.org 
+5I.SiV2042Ll2 john.melbo@mn.usda.gov 
+5Ix0ccm.EJZs2 maryann.erickson@mn.usda.gov 
+5Iodrziy4BdnU david.gaffaney@mn.usda.gov 
+5IEW.G7uxJoYg sherry@capitolhillassoc.com 
+5Ir.pzs1mxomQ denise.chapeau@mn.usda.gov 
+5Ig9GWUE62qBg casey002@umn.edu 
+5Ia7N2uDv5VJE louise@rochester.lib.mn.us 
+5IkIZc1LtVCiU ron.dreyer@so.mnscu.edu 
+5IGBp/XtzkO6Q lemaki@prodigy.net 
+5Ies70R7dDC5E brownej@northernlights.lib.mn.us 
+5IeQy8.MlqpF2 Gene.Franchett@co.dakota.mn.us 
+5IHWnOSmgzTZg twolner@ppmsd.org 
+5I35NJ81rNDJM smeyers@umn.edu 
+5IZq24zmpNQQ2 patrick.simmons@state.mn.us 
+5I/vLS3lrsg/M bsalisbury@pioneerpress.com 
+5IZd7/38PyM.s bill.heaney@xcelenergy.com 
+5IDx3Ar5kzHB. dunha003@umn.edu 
+5I.TbffGBjGrY coo@worldpopulationbalance.org 
+5IBji8l2oaJtE aaron.peterson@mail.house.gov 
+5IpepEsyvcjj. kissane@heso.state.mn.us 
+5IC64qMHBM36c pigpr@unitelc.com 
+5Iv0u0ufmXLDI cbury@mnsu.edu 
+5IRi4Zdlwu.VI don.supalla@roch.edu 
+5IP.IKnpZs6o2 gwenn.m.solseth@xcelenergy.com 
+5IlGNn2qJC4Y6 sundbergl@co.st-louis.mn.us 
+5IMCeyT6ZxgBQ lprw@itctel.com 
+5IIFbyNSUV3JA bsmith2000@uswest.net 
+5IEosuQcKolLs johnsont@crimeandjustice.org 
+5IeG3dssh61Q2 Gary.Koehler@state.mn.us 
+5ICI6dYRncgDk timr@visi.com 
+5IzT9ylilIZgw laurie.hestness@co.ramsey.mn.us 
+5IwYHWgqTrCAM grimes@heso.state.mn.us 
+5Is3weed5OyAg ty@bigspring.com 
+5IQwEfQEO1z.U MarkD@MinnesotaBusiness.com 
+5IYxsDcU3OQWc brian.hiti@irrrb.org 
+5IIQcgHpuE6qI sfsurvey@stcloudstate.edu 
+5IgbBE5zE0Gu. gmiller@scc.net 
+5IVdcTH4AwEAk betty.cooke@state.mn.us 
+5IrPdvVTtu3.M sharon.smith@state.mn.us 
+5IFlLYANkp9n. pete@mnic.net 
+5IQE8gCuRtP3o tflathers@hrdc.org 
+5I85fBenpM7Nw kim.austrian@metc.state.mn.us 
+5IMjPn4zYJsKo dan.jordan@ironworld.com 
+5IIDCxcAtzW1U maanderson@visi.com 
+5IrWvI/nV0zes dpd@tvoc.org 
+5IUeGzdfdB3I2 stewart@stewartselman.com 
+5Imd7Mvi4L1RA tpernu@aeoa.org 
+5IUCEJfQaeuBQ nagi.salem@health.state.mn.us 
+5Ias4DI4czXLY rebecca.christenson@state.mn.us 
+5Ig7SwraYOHKE bart.bevins@state.mn.us 
+5IcIlIvGc236s izak0001@tc.umn.edu 
+5IBKJ7sLgoDH. plangen@swrdc.org 
+5IKs8TkBXiIcQ kknudsen@d.umn.edu 
+5IVJi4GfbTN5I sabderholden@pacer.org 
+5IYM.4DWpoNSs ed.mack@metrostate.edu 
+5InVpuiStHnzY aring@bonestroo.com 
+5IyW6JzPSGMjA trall001@umn.edu 
+5IcTWeGIgHNpA regan.carlson@metc.state.mn.us 
+5IfGqB0qGb3Pc jmoore@arrowhead.lib.mn.us 
+5IyIdnQW7dpSI jan.price@metc.state.mn.us 
+5IIyYQg8LZhBU mitchell.rubinstein@so.mnscu.edu 
+5It7VXvrRHgoc joan.minczeski@co.ramsey.mn.us 
+5IyxDbcAbNDRU thebirdrw@yahoo.com 
+5I/fRuKMC3qTs crustnet@brainerd.net 
+5IB6RcFOYr50E Don.Ferber@state.mn.us 
+5ImHmJm6mDtGI klock004@umn.edu 
+5ILIOgUyk2gDc richard.bautch@dot.state.mn.us 
+5IDHbSI6g3L4U mary.kruger@state.mn.us 
+5IHjK2z4I72Mw meadek@unitedwaytwincities.org 
+5IvzHiCi4NQfQ buckleup4meghan@hotmail.com 
+5Iyze3I945rrM marjanac@qwest.net 
+5IxQUFgpNc1x2 nancy.devitt@ co.hennepin.mn.us 
+5I9X0I3mSVgwc braunk@mnstate.edu 
+5IpsKU1TDs4lw cigler@psu.edu 
+5IzCzxSXGCIy2 heather@wilder.org 
+5IgWyvaXeUvpQ vaughn.noring@idob.state.ia.us 
+5IWrRPUU/Xh8M lbrown2@gac.edu 
+5INlewjzwhdYc richard.tvedten@so.mnscu.edu 
+5IWEvcrrwUJ92 kmarohn@stcloudtimes.com 
+5IWZCUG.WWDUU nealjo@aol.com 
+5IGXAHgfF/pBI kfeilmeyer@gw.hamline.edu 
+5IYvkcfMYZOT2 atjohanneck@stthomas.edu 
+5IikZaoZIMYnY hivel001@umn.edu 
+5IYDCpQGjyFB6 jpeters@pacer.org 
+5Ia1/FMdY8LNU richard.baker@dnr.state.mn.us 
+5Ih4zbq8Ai4EQ paul.schmiechen@pca.state.mn.us 
+5IYGocSjAqiGI karenf@mnchildcare.org 
+5InPKDohsMfts anne.thom@state.mn.us 
+5IxC.PV5vQT1o tyrone.sprat@state.mn.us 
+5IkybueuMFKIs edwina.garcia@state.mn.us 
+5IdkTEV2WbpVg Jeff.schulz@spps.org 
+5I6PZnq6Q6j96 gayle.geber@co.hennepin.mn.us 
+5IQLKw3wY71Lk mgorman@hhh.umn.edu 
+5IcjI87Vvg6Do ecrdcced@ncis.com 
+5IEMIzVvw5aFc lwallace@americas.org 
+5IN9yW.n8p32Q chamber@starpoint.net 
+5IUF5zKTL6pn6 jane_otto@hotmail.com 
+5I3Ko/bysDQ/c deb.miller-slipek@mn.usda.gov 
+5IzgL52sU2Q8E marnie.werner@mnsu.edu 
+5IYyqFBp2GNn6 john.helland@house.leg.state.mn.us 
+5IYowdEYfl6x2 VickyProfy@cs.com 
+5I8Cv71y0nrKQ mbmagnuson@locklaw.com 
+5IQ1FhnXVCcgY urness@brainerd.net 
+5Idd5QwmvA2kg beth.hargarten@state.mn.us 
+5IX.bfP4mh9m2 theresaledermann@hotmail.com 
+5IeOT5mS7g4gU sbuck@ruralcenter.org 
+5Ij4.adUce9Lo patricia.arndt@dnr.state.mn.us 
+5I.qNIL3p7jIw linda.hanson@state.mn.us 
+5Ik2iGFEg.w92 David.Zander@state.mn.us 
+5I3.JjKOpfzWI jswanholm@qwest.net 
+5IWebc2C06w62 pacyinz.lyfoung@state.mn.us 
+5I7bXMMG9SmM2 clarissa.suarez-russell@state.mn.us 
+5IchONx5xaepo erin.eid@pca.state.mn.us 
+5ImzgSAIDUzKw cchristie@burnsville.k12.mn.us 
+5I0a6PkK8uKu2 john.hurley@health.state.mn.us 
+5IBgjG0FVy.vA marybeth.schafer@state.mn.us 
+5Icnss2ruAWSw gary.langer@so.mnscu.edu 
+5IfkONKs2QF1Y bgallo@lmnc.org 
+5I4tuDJc/1M9s shawns@blue.dhr.state.mn.us 
+5IuWvNtDVtZ2Q rstassen-berger@pioneerpress.com 
+5I1COMsKPIjkM margaret.tokar@state.mn.us 
+5IYsv8pW6RyyY najohnso@ssb.state.mn.us 
+5Ijonyl36a/0s rep.scott.dibble@house.leg.state.mn.us 
+5IU.w3zsa/d5c bkanninen@burnsville.k12.mn.us 
+5Iu8n8qYjSab. kingx077@tc.umn.edu 
+5IbcJ12jJLVqw cmcintyre@mnmsba.org 
+5IPnLuBOlg4eA msmith @komets.k12.mn.us 
+5IJH3bcO3nN/I squir001@umn.edu 
+5IwYWWY9YqsiI rduncan@stanthony.k12.mn.us 
+5Isc77ySsVKT2 rreib@umn.edu 
+5I8RHYnz/qQXg scroonqu@ties.k12.mn.us 
+5Ii/W0/oqz6hQ michael@urbancoalition.org 
+5IxcdTzalOxcU dhainlen@jwp.k12.mn.us 
+5IOExl9TnebDY speterson@educationminnesota.org 
+5INLfmayyX.fg john.groen@house.leg.state.mn.us 
+5IBw4MhP0Tfs2 mary.swoboda@state.mn.us 
+5IRK3b0FRkOwE ConsultExc@aol.com 
+5I3Fy/jy2Yf/. eib@stateside.com 
+5IEqJ8rZz5ThE xiong@urbancoalition.org 
+5ItmtKCdsvLTU dana.gotz@state.mn.us 
+5IaPoRyvMmOjo pwm@wilder.org 
+5I32Bc7ULg2Hw forsx003@tc.umn.edu 
+5ICISSNtEaH2M Shirlee.Holyfield@state.mn.us 
+5Ix25RxCpHFJw slipekc@fca.gov 
+5IO2TSrvUxbbo ddavis@forumcomm.com 
+5IoxOvEnf2c1U smpack@hotmail.com 
+5IBL1IztJiecw patti.segal@tennantco.com 
+5IEpWbzd9vxsQ fiddler@flash.net 
+5IphooDS/2lY6 camille@uslink.net 
+5IKaTRq5lzU4U rhulst@farmcredit.com 
+5IoK87dTNi2DA sevspider@juno.com 
+5IA22QfUEUnqk municipal.information.library@ci.minneapolis.mn.us 
+5IYBHpPDh1lZg dmrankin@earthlink.net 
+5IJoWJFT4xmxg redalman@attbi.com 
+5ITvcqD3AIsTM jpithan@qwest.net 
+5ImRAO/lT0Zu2 Xenoevil@aol.com 
+5IxOo0OkwRy9A mark.snyder@moea.state.mn.us 
+5IJ/AhsnYDQRo elisabeth.loehrke@house.leg.state.mn.us 
+5IZj7d2WzMVRA anner@acegroup.cc 
+5Iy5MSc9D4Wac vanaserm@hotmail.com 
+5IJMMQ/7wzfeQ kenneth.steiner@co.ramsey.mn.us 
+5ItMBMV8nzFMw dhinrichs@hclib.org 
+5IV3wlOwGV6P2 lalonde.anne@slpschools.org 
+5IlSWMQHWYa3g joseph.bueltel@pubdef.state.mn.us 
+5I4tNpIhh7Lhk jbueltel@sparksco.com 
+5I7.ul233KIhw kleedom@willmar.k12.mn.us 
+5ILg0w4W8iRgA troy.olsen@house.leg.state.mn.us 
+5IU8uUJ4ohuTo bill.ward@pubdef.state.mn.us 
+5IWw2bkCbukRY maki@augsburg.edu 
+5IW5VnLrCj0hU tmatthews@csg.org 
+5I2i2Kyh4B7ks tschmidt@regionfive.org 
+5IiYNvdMFzKPo dburns@hclib.org 
+5IasMvc2rJEoM jen.peterson@state.mn.us 
+5IJlhZokOE52E tdborash@brainerd.k12.mn.us 
+5I/hYZveqU236 lilron@stfrancis.k12.mn.us 
+5IUV09XltOKm2 calderon@stcloudstate.edu 
+5IckE66/IGnJ2 rschloss@mninter.net 
+5I3ZKaLTQz9Qs ecac@ncis.com 
+5I8wVVQYGiyj2 nikki.foster@mpls.frb.org 
+5IA7Nvu1ky.YI doug.clement@mpls.frb.org 
+5IL3BnuDwz80I glenn.skuta@pca.state.mn.us 
+5Ie0rl1Euqh4A lucinda.plaisance@metc.state.mn.us 
+5I7.msbcMtuME tcoleman@pioneerpress.com 
+5INX7/FI8UxqU andy@driscollgroup.com 
+5IzGWhkDzsIZs lpinnell@hclib.org 
+5IJmq3ZK6TBf2 bobap99@yahoo.com 
+5IC/flik7joso jgugino@hclib.org 
+5IHSKvGbzjcwk kpoole@hclib.org 
+5IDGVeElJTGuI jwurl@hclib.org 
+5InYgk67C/eB. jdesirey@hclib.org 
+5I6HgDmZ1HqL6 freund@postbulletin.com 
+5Ig7pm7uzP8gg mikburke@edina.k12.mn.us 
+5IDhjeqDnkgns shelleywatson@mail.ogc.umn.edu 
+5IE0ZhNAQnKQs rcolond@msn.com 
+5Ib.ZYyE49OkU loren_polonsky@urscorp.com 
+5IsNqFXJ.AVrE Linda.limback@state.mn.us 
+5IFAKiuf28wrs drol0003@tc.umn.edu 
+5I16WvbJ60SKM John.Hakes@state.mn.us 
+5IoDFVEdrRXhU anita.larson@co.hennepin.mn.us 
+5Ih2DV/2zK62s aggeler@bbcresearch.com 
+5IIvKs6JTD8LA joe.hiller@dnr.state.mn.us 
+5Ib0kYgpV6ZL6 dkc7carp@wiktel.com 
+5INohFCemHUXo kathleen.porter@state.mn.us 
+5IxvrrlMgfLzg nicole.bennett@mpls.frb.org 
+5It.o.9MM8up2 wayne.kuklinski@state.mn.us 
+5IX5en954GKlk margie.grilley@dot.state.mn.us 
+5IHV7uqcUa/TQ gmiller@scc.net 
+5IEotNPzN1jBU nriesgra@arrowhead.lib.mn.us 
+5IUNzxJroaOVM linda.sutherland@health.state.mn.us 
+5IO9VmeSsZFc2 sueandwolfie@yahoo.com 
+5IaE77r3eSrXY cvawnhy@mplib.org 
+5Im6min0m9DWE cvanwhy@mplib.org 
+5Ia5t0mpcJCXw richz@umn.edu 
+5IXfJlXdGXcj. kurle001@umn.edu 
+5IdKMQnZNcia. lindak@puccini.cdl.umn.edu 
+5IJzKi/RIYkBs bsteffen@umn.edu 
+5IDd4tB.Jatdk jbrissett@chartermi.net 
+5IW39BmkVJDYg bjoselyn@blandinfoundation.org 
+5IKvl8IzXoQ9E bhanninen@co.scott.mn.us 
+5IaEI2LFxz1QU pmurphy@nwaf.org 
+5IbVcFeA3.TWQ elizabeth.schassere@health.state.mn.us 
+5IJLzMSNHzNnQ cathy.mcmahon@co.hennepin.mn.us 
+5Ilm0Z1xYNp.g leeschutz@att.net 
+5I.Ba.WOjU09A bje@madison.whdlaw.com 
+5IWtFKf5vWxzI jpyle@smumn.edu 
+5IZWV2JZyY/CQ mike.tripple@health.state.mn.us 
+5ITjfXscquz4Y djak@unique-software.com 
+5Iq.7WzhjB0/k cmcrust@brainerd.net 
+5IeM4K5k9FtG. phillipsbourns@hotmail.com 
+5Ihn0TDKEhMXY deb.grundmanis@state.mn.us 
+5IPVaGkyvAp02 becky.montgomery@co.ramsey.mn.us 
+5I/Jdl5Ou90Ko lfredlund@aryarch.com 
+5IlyluvoD3kzM ssteinwedel@hclib.org 
+5IJSfsk1M3k66 eeverson@hawley.k12.mn.us 
+5IkHGiqWYgZQk Lindy1102@aol.com 
+5IjCGGoUwkuuY jalswager@educationminnesota.org 
+5IrqDHUhDj5co karen_k_scott@bluecrossmn.com 
+5IlWgMP4h5mcg jls@cme.com 
+5IxpWuZ6Bqjig Tammy.Pust@state.mn.us 
+5IawdYvZ7xqy. Barb.Yates@state.mn.us 
+5IxzoP9bof1bw EllenWeed@aol.com 
+5IGEJln3YAa8. dick.wexler@health.state.mn.us 
+5IV8dX8dIgjB. jbonner@uslink.net 
+5I1PX9CkixAnM Adrienne.Howard@state.mn.us 
+5I9CATWXIala2 Barb.Mann @monticello.k12.mn.us 
+5IaimsZR18.MI mcfgroup@aol.com 
+5IWBNosRGZga2 geno31@webtv.net 
+5Igi9WxLTnS5Y v-larson@bethel.edu 
+5IoKGBqBK4mdk nancy.conner@so.mnscu.edu 
+5Imc3anZlulYg lajones@ccrtc.com 
+5I7KgWYG22z2c trosenstein@co.nicollet.mn.us 
+5IKDNqix1dlIQ t_smrekar@cambridge.k12.mn.us 
+5IZn7OUmwdqps susanne.hollingswort@spps.org 
+5IQN2AoOlFIPE kim.cantu@spps.org 
+5I/nYd0Zsztfs jkreger@hf.k12.mn.us 
+5ITLoYt5a7Rfg sfkovach@isd194.k12.mn.us 
+5IOukbJ78EDg2 kswany@hotmail.com 
+5Iq4CipHOJkbg rhodaa@hutch.k12.mn.us 
+5IF9/xhYqzq52 commersc@chaska.k12.mn.us 
+5IJJWQ3uekZzA lipink@gsl.k12.mn.us 
+5I68G0iUKHaxQ GallagherChris@chaska.k12.mn.us 
+5I029rWliXfMk kschiller@ism-sabis.net 
+5IzC8TFu8r/3c francisg@isd300.k12.mn.us 
+5IpQWzGI.1U.g michael.bolsoni@district196.org 
+5Ir2cSNinlr2s david.hokenson@isd2198.k12.mn.us 
+5IDHaPZVLIBxw jdevlinmn@aol.com 
+5I/AETPlhWGjo kbahn@howard-lake.mn.us 
+5IK/nUgCr7Sw2 rjfuller@newulmtel.net 
+5IS/ZnQ/9l7eA mnuytten@hotmail.com 
+5IVJlWDU1VW3c srobin1@isd77.k12.mn.us 
+5I1x1kBR8U.zs bchounard@webtv.net 
+5I8FLz3LPPJC6 rnewman@barnum.k12.mn.us 
+5I9gUV46PnGLQ tellerbusch1@ssd.k12.mn.us 
+5INWwM.CLVrQE Margaret.Taft@mpls.k12.mn.us 
+5I4Hl664xqRNk jnevitt@paynesville.k12.mn.us 
+5IX/BFcQWwW7s carson.hoeft@minnetonka.k12.mn.us 
+5IM8/BD1yntV2 ladehoffr@tracy.k12.mn.us 
+5IXZr6A.6/Ues steven.rundquist@stcloud.k12.mn.us 
+5IOb/Rjqq312Q sboelke@jcc.mntm.org 
+5IsBlwXRPrwT2 bhanson@fairmont.k12.mn.us 
+5IPuggAbsPOyA ghaugo@crookston.k12.mn.us 
+5Ixzeug9dg4Io Lydia.Schultz@talmudtorah.pvt.k12.mn.us 
+5I2.7k1hibr4g delhard.isd318.org 
+5Ie3g1RpYzwjo stan_johnson@mail.nashwauk.k12.mn.us 
+5IhlVQfdYrq4A jforney@trf.k12.mn.us. 
+5IxiakQWcXeWQ fbcpr1@unitelc.com 
+5IOzimg2P5aKs dmrankin@earthlink.net 
+5I6mQOArXAov2 Bruc 
+5IDMf4WiJ6bpc bruce.phyle@co.hennepin.mn.us 
+5ITn8Ta56GReQ lhilden@bemidji.k12.mn.us 
+5I3bsrpl.hG6A moses@lakenet.com 
+5IfCH4BpCPlTQ bclarke@perham.k12.mn.us 
+5IYTgozF5jAVs Bill.Mittlefehldt@anoka.k12.mn.us 
+5IaulxWsy10OY lemkep@gsl.k12.mn.us 
+5Igk/9i6THEdI Mike.Harris@richfield.k12.mn.us 
+5I6QFK853mByc mmccarthy@startribune.com 
+5I/qHsUQAoVBQ janderson@austin.k12.mn.us 
+5IG.JYs6ePEBI jkirkeide@stanthony.k12.mn.us 
+5I2vOLBbNsyko ronglien.larry@slpschools.org 
+5I32xwDuPExdw ekwatts@mplib.org 
+5I49yiJQD.8sg sharon.walp@state.mn.us 
+5II4HdA65bVd6 mrollins@prbackus.k12.mn.us 
+5IynGhFu7wYhQ stmike@djam.com 
+5ISemIb9DSPMc georget@frontiernet.net 
+5I2XYKCety5Cg kbjerkne@auri.org 
+5IKq.dUPLOWsE jparsons@csbsju.edu 
+5IZeQllux1NgM sricard@benson.k12.mn.us 
+5IHvce9BG4.ls trent.ziegler@isd47.org 
+5IqxHyrE1tAgw LRCS@brainerd.net 
+5ITP2faluxWdg Amy.Sobieski@state.mn.us 
+5IxfFj.LWHd76 gterhaar@smumn.edu 
+5IJqssQvstGtQ MrDonErickson@msn.com 
+5I6pE8w8/qNjU jjurkovich@cadets.com 
+5IbpNFUcTi3sc kris.rush@state.mn.us 
+5IjcvgPuxHN3E kdupay@yahoo.com 
+5IVGcL6CS2MDw schwarz4@info-link.net 
+5Ig5lrPpjouVs kpoort@rconnect.com 
+5IXFgd5H292PM ljhys2002@yahoo.com 
+5ItfIp0LwWG5s loomisj@rocori.k12.mn.us 
+5IoopWKM6wK3. rschoolderman@ardc.org 
+5IkKbao8M6Mig RJJohnson@elkriver.k12.mn.us 
+5IDy117kc8Wng cgilbert@gustavus.edu 
+5IsvmtA2tItAs mjhinds@ties.k12.mn.us 
+5IQUUuQcKuYdI apeterson@ardc.org 
+5I073nySz8326 aaldahl@bacards.pvt.k12.mn.us 
+5Ik3uLEzaOsqg asokolski@mn-ei.org 
+5I144s3tRi3sA mendoliag@osseo.k12.mn.us 
+5It.DmQfTdk22 plinhoff@hclib.org 
+5Iwpd.HXz9.N2 Ray.Knutson@state.mn.us 
+5ISkWJT.lQGhQ lindquist_linda@hotmail.com 
+5IHey5ZwF9fpQ areedarlene@netscape.net 
+5IbZwyv71hm12 woodhous@acegroup.cc 
+5ItKBP19F2scU harriss@ucar.edu 
+5I8BgGD6KB8Bk webstere@mctc.mnscu.edu 
+5IScQ7VVUteD6 hill.tony@co.olmsted.mn.us 
+5INNEP8M.Eimc idealdabbler@netscape.net 
+5ICSr4PbvPOt6 bradfern@yahoo.com 
+5IMdGNDd95ma2 sjerpseth@annandale.k12.mn.us 
+5IwKZAbUXJfYw redfield@mahs.morris.k12.mn.us 
+5IdlgxsHHQ662 jhgendler@aol.com 
+5IfNlVZQAi5Kw pat.afwerke@state.mn.us 
+5IGj.xiAi2M4Q Lee.Cornell@mnsu.edu 
+5Ie7ToMXeAXjA ratoft@worldnet.att.net 
+5IBCAaxUBJj6o jmiller1@isd2397.k12.mn.us 
+5IW.QO16WpICA mary@vectorlab.com 
+5ImFQ3XaVM.pY rkelly@triton.k12.mn.us 
+5I9CDZODOs.Hs david.beimers@co.ramsey.mn.us 
+5II89OwZTzkFA deb.serum@state.mn.us 
+5IXwu8HZydnTQ ethanhowland@aol.com 
+5Iu8UDOirk8GM jhguidinger@cai-engr.com 
+5Ivdd1djosmQ6 aewolleat@brainerd.k12.mn.us 
+5IS7LcuMiqxGo afjone@aol.com 
+5II16qrHM2ZII greg_brust@adp.com 
+5IkD0jPHvhAeQ Lander5045@aol.com 
+5Id.ghXBhg502 ejredlin@cleanwater.org 
+5I1fPvvd07IsE ec@secomo.org 
+5IJVQGuZFss7I placida.venegas@pca.state.mn.us 
+5IG76NX9deufU Leslie_Knapp@Earthtech.com 
+5I/KN09m7wTsY jjansen@willmar.com 
+5IgoagIlZ2pAY pamela.jo.rasmussen@xcelenergy.com 
+5IGgx/Hjy.wcI konken@co.murray.mn.us 
+5IdJ1.5yK2cAI laurieblake@startribune.com 
+5IPU1pAQaAK7s jrobertson@farmland.org 
+5I4vZ.v//9c7g gayl@shns.com 
+5IF3PKJFK1NyY kathy_house@rdale.k12.mn.us 
+5IKEUyTxASwRg bhanson@fairmont.k12.mn.us 
+5ILct1yvlMJBg curtis.brown@state.mn.us 
+5IXyJOCoDJ6rE sclyke@rochester.k12.mn.us 
+5IsMcrDHMOQkE kwalker@ncbdc.org 
+5IG0QjmVDgWEg cindyk2000@aol.com 
+5IKCTDpiHngNs mike.fratto@state.mn.us 
+5IWIDVKxdn3eM garnet.franklin@educationminnesota.org 
+5IuaHrwJYrpwU susan.cribbs@gov.ab.ca 
+5Isa5.XZ9WDW2 Gary.Haynes@gov.ab.ca 
+5I01MUs2kanWI lara.check@gov.ab.ca 
+5IPR55SMA7qq2 Paulandnoemi@aol.com 
+5INF3DeFHD9co richard.schlosser@dot.state.mn.us 
+5I.0/ooc8w16Y nancy.walton@state.mn.us 
+5Ib2ucR8th79Y msoucheray@mnprivco.org 
+5IkHceXcDPZ2g constance.peikert@co.ramsey.mn.us 
+5I1AYJnQHCfqY mary@vectorlab.com 
+5IZzNlVuxiXwQ gmiller@scc.net 
+5IIOSL3KD6/R. diane.cushman@commissions.leg.state.mn.us 
+5IohamZQjBg8w sthorsen@hmtel.com 
+5IvSHALl/hX6s bmccarth@nrri.umn.edu 
+5IQfgNcUInQxU stokes@tiny.net 
+5IAyK0eiyM8BI Sandra.Olson-Larson@co.sherburne.mn.us 
+5IDOMeVTkTEbM suew@crisisnursery.org 
+5IplfdVhisnfs marcus.harazin@ofa.state.ny.us 
+5IFkr8j.LhHlY hsie461@ecy.wa.gov 
+5Iu87iC3twiCE MetroLot@aol.com 
+5IhXkoxogx8No strangem@co.st-louis.mn.us 
+5IqVAXxlhZQac ldepuydt@city.mankato.mn.us 
+5IYb0PFCjvBM. frase001@umn.edu 
+5IuxynrsYFNsk kinkel@umn.edu 
+5I/JeXuKBidaI daleb@condux.com 
+5II07o1x29KbI le.brusseau@mapp.org 
+5I1emB0p79KCY alfajardo@stkate.edu 
+5IGAApTd93cmY tammi@centurytel.net 
+5I8mP7iATMi1A sheax011@umn.edu 
+5Ix82Tl3/tliw twopines@aol.com 
+5IIwhh4lHhFIU aguilar_juan@hotmail.com 
+5IECWC2Fo.cPo dapeterson@startribune.com 
+5IYwATtDFS9.Y dhoehn@gislason.com 
+5Ilz.oxrNMKec joshua@joshfloring.com 
+5IG5xd9WVbxMU jclassen@hhh.umn.edu 
+5IY5lrUqNyI7M dzof@ssi.bg 
+5IDRPAAHzwwGA jlevin1@thelevins.net 
+5I7uQRJfn5Axw karen.harrington@co.dakota.mn.us 
+5I77KEhfhFTIY b.hakes@kemps.com 
+5Io9vVrq.h9jc Lori.Sakk@state.mn.us 
+5ICHF15tEwCAs charliez@madtelco.net 
+5IKrAgsF6Ckws mcroziersauer@chsm.com 
+5IMVeIWBNE8mE klane@nw-service.k12.mn.us 
+5IRTkVZrQixjw steve.bradach@dayton.senate.gov 
+5IM6WBtAIcadQ mschultz@ardc.org 
+5IuhQ34TibfJ2 neumann@lakes.com 
+5Ip/U7CKQSsxc ppnews@sherbtel.net 
+5IPAkJlsMsuKw lwahi@hotmail.com 
+5Ij5KIgZi5UcA peter.jessen-howard@co.ramsey.mn.us 
+5INBIl71R0Ugo elizabeth.starling@state.mn.us 
+5IAAfAUT8x3p2 tomrumora@hotmail.com 
+5IgRWF7v.hIas josiahwhitman@hotmail.com 
+5ItLbhPT9UJOY josephine-enterprises@att.net 
+5IigLfMcD5/wY m-mcgu@tc.umn.edu 
+5I9kokijDH6W. jbmeck@msn.com 
+5Ilo/JzisMqh6 robdeb2002nt@netscape.net 
+5IQJs7/SjMAEE blammers@windpower.com 
+5I9CALmC1ya4o marec002@umn.edu 
+5IMmwqlwdis1M cecil.selness@dot.state.mn.us 
+5I4efEqzKhYN. james.r.alders@xcelenergy.com 
+5IeAYWqrezVDw spears@agree.org 
+5IS4N7K1onJ66 mthueson@mpr.org 
+5ITOmOxiKUvuI Blaszczynska.AnnaMaria@tbs-sct.gc.ca 
+5ICcbzVy2YJI6 Paula.Weber@state.mn.us 
+5IHKmQVpzXtCE rodmuir@sympatico.ca 
+5IXnykYOgNWvc josca@aol.com 
+5IwM873tcLLpY mike.bull@house.leg.state.mn.us 
+5In4LSu9Wy4EU richard.wassen@state.mn.us 
+5IHmWShCbvPKs smlampman@msn.com 
+5I.o7wORUNDSo terry.logan@state.mn.us 
+5IuevTpeqAovU cristine.leavitt@state.mn.us 
+5IAo6cKyJOBsQ virginia.smith@state.mn.us 
+5I4EPOLj6PWSQ rha@hutchtel.net 
+5Io6GPIZMyh1Q RMFrey@compuserve.com 
+5IXygbXS/psxA michele.bollenbeck@state.mn.us 
+5Iks1rsFhX9/U tdonovan@cpinternet.com 
+5IwTJpvgUu2bw scottp@mnchildcare.org 
+5Iur50j.jgjRU wilso260@mail.crk.umn.edu 
+5Inloi/YX0E6k Lexsquire@aol.com 
+5IUG7n/N7z3cs george.baker@ntcmn.edu 
+5IR6E.JYyyapI elizabeth.thole@ilcm.org 
+5I2zkr1ELvys2 destey@gmcc.org 
+5IXf8/mY4uxKA mmromanski@yahoo.com 
+5IELl.OCQgjIU mattc@aaron.uwrl.usu.edu 
+5Ien/JVUIwkTA pthissen@briggs.com 
+5ITgykDwmcYuk wesshnut@enter.net 
+5IPADOrDcL5Xw beth.feckter@state.mn.us 
+5IbGcDsDCiJQk Bruce.Weinstock@state.mn.us 
+5Igb7sE2qgCB2 kenlehman@usa.com 
+5IaBgQERGPpdA wlconnelly@stthomas.edu 
+5IQtgLrOFTScc thesse@mnchamber.com 
+5IvMogmpZm8CA wibco@rtsmn.com 
+5INbZx2.bb6H. mark.meffert@house.leg.state.mn.us 
+5IpPcxsXrVNQs bambrose@grenergy.com 
+5IEJqWaeJX1dg Devon.Idstrom@mpls.frb.org 
+5IIY0ULn8VzWI dayne@urbancoalition.org 
+5Iw5HmF2QKeJ2 emilychen_mcasa@yahoo.com
+5ImGmyEx3LxDg jwilcox@vitaplusfeed.com 
+5I1bk4hrisF5E valenlaw@djam.com 
+5IiRNANYxmTeA kenlehman@usa.com 
+5IWdcfTfoljgE salvioli@unimore.it
+5IFhB6MAYQ2aU EuropeanAmerican@webtv.net 
+5IIoTmxUE.06Q MacSapiens@GBRonline.com 
+5ImWOF3eZtPbI lordofthedance38@yahoo.com 
+5ITWH39BMcvl2 wendyoleson@hotmail.com 
+5IJhj/czfUycM orm@wilder.org 
+5I091UlH.2g.2 tdulas@a-p.com 
+5IMYqsrPjRoWM mkane@nemw.org 
+5IWswgoGACYh2 mentoring@mentoringproject.com 
+5I6F2Ukm7SLWI mentoring@mentoringproject.com 
+5I6/Lf4rNQmCc mentoring@mentoringproject.com 
+5IrpYQbbowiaI emartinez@resource-mn.org 
+5I0nbDJdYAUHE arandy@cuningham.com 
+5IEnV/Kkbg1/2 joanm@dcd.wa.gov.au 
+5I/8lOEe3aBI2 sds@ansrmn.org 
+5IwNSznN1PBHQ Bburmeister@cuningham.com 
+5Ifhelu2.e/bw wrpikus@yahoo.com 
+5IfSkoWqpGyZ6 asokolski@iwla.org 
+5Iumj3vtNtIUE njohnso4@fairview.org 
+5IgnIrP7rjNkE christine.reisdorf@state.mn.us 
+5I/Q0tktlgt0M zanmi002@tc.umn.edu 
+5I0cUeA5CqpLI Df@hoida.com 
+5Ia8gmJ0JjcjM DMCCABE@hhh.umn.edu 
+5IY.7esvXqdcE ktwite@auri.org 
+5IUExQGkiNqls patt.keane@ci.minneapolis.mn.us 
+5IGhXBrgWbZhU mattheas@yahoo.com 
+5IFGr239gyULA monte.miller@co.hennepin.mn.us 
+5IRdKvfDFdysI john.kane@co.hennepin.mn.us 
+5I57ces.E7lJI dphjmh@msn.com 
+5IlhX/5g15tCY lgoerdt@ardc.org 
+5ISD2/V6Ovs5I randy.bauer@idom.state.ia.us 
+5IzxmYeG0PWQU darci.bentz@chartermi.net 
+5I5YA2Dh/F/46 peter.butler@ci.stpaul.mn.us 
+5IuWyw4yZ9/FA anil_kumar@pvamu.edu 
+5IaTIWRlJydag anil_kumar@pvamu.edu 
+5IkKp8Dkhasks sheax011@umn.edu 
+5IoCywdlVKnfo eileen.ostrowsky@dot.state.wi.us 
+5IcO3P4zrt1Ng Ann.Pung-Terwedo@co.washington.mn.us 
+5IJbY930z3hF2 rroos@thomaspipe.com 
+5IPmu2.bIKhVg willy4real2006@yahoo.com 
+5IsCDrdFX1B96 kathleen.porter@state.mn.us 
+5IEbZfoEKyH.c dheywood@co.carver.mn.us 
+5ISH4Fq9NLBlI howard.epstein@co.dakota.mn.us 
+5Ib1i8aAOQvMI bluesky11@attbi.com 
+5IJYhp1JsaD2c wdking@netins.net 
+5Id0pMal3GMZo barb.dalbec@health.state.mn.us 
+5IJmuBMDkVP1A judy.nord@courts.state.mn.us 
+5Ifqy2Jy6zaew nusret9741002@yahoo.com 
+5IBna0uRte5JI jkaster@csbsju.edu 
+5II4doK89rLII chaas@paulbunyan.net 
+5IbNQX.mzl1so jmiller@shakopee.k12.mn.us 
+5IpWBOSXgROGU kkrisik@mncc.org 
+5IY0DXkhrBJFg jen3344@aol.com 
+5IdYSzaCyOdIY mconnor@mntech.org 
+5IFINdNmABCTQ planner@ci.watertown.mn.us 
+5IPqwxnkNaiP2 cambchbr@sherbtel.net 
+5IkMirclcwdpo bfitzsim@wmitchell.edu 
+5IdMp761ZcWUI matthew.abbott@state.mn.us 
+5IQsubXXe0mow cityhall@mlecmn.net 
+5I8WlKKe06x9g jdray@cuningham.com 
+5IIcOHyXIvnCM mbisek@ardc.org 
+5IV6Iut9DSZtQ info@ecoeducation.org 
+5I1o1XZCx9pKA compuhorsy@att.net 
+5IYb0ERxQakrY sheris225@yahoo.com 
+5IXwtUal/2YW. Manuel.Benegas@childrenshc.org 
+5IL.I09cwIzhM joycewirtanen@hcc.mnscu.edu 
+5IT6WJtpQth9Y karen.harrington@co.dakota.mn.us 
+5ICThl9Gj8OMA theresa.davis@state.mn.us 
+5I.rXjHptKhAI JandJHynes@tcq.net 
+5I7Q4uFqidMxg susan.darleyhill@wlssd.duluth.mn.us 
+5II0tyHc4G5Xg MikeManger@hotmail.com 
+5Ij1U6zp352Xs mystarrok@msn.com 
+5IM8Sr0fLb2Is zehm0005@umn.edu 
+5Iq1nCRmRBRI2 mpage@tds.net 
+5IIWVB63m1tZM goodfriendsco@msn.com 
+5IJAYuPQLuXJQ jessica.wineberg@mnplan.state.mn.us 
+5IcrcSiPK0KNA jen3344@aol.com 
+5IT7R3vSuceds tanaturner@sympatico.ca 
+5IyjKqygHfzlU terry.lewison@supervalu.com 
+5I.V2O/NBq1BE colness@mfra.com 
+5IDafeunC/oWs bob.overby@co.dakota.mn.us 
+5IK.7m/OtAHmM dapeterson@startribune.com 
+5Ii0DS5nGgESA katriina.korpi@house.leg.state.mn.us 
+5Ik46My/e807M christy.kubat@house.mn 
+5I93BlP.kZnAY dania_it@yahoo.it 
+5IzG4duWvk/uY glenn.skuta@pca.state.mn.us 
+5IbSNJHjsAq9E rreedy@opportunities.org 
+5I2gZcmdodK2I eadickinson@mindspring.com 
+5I6o.YQu5vsbE wassenaar@spnn.org 
+5Icft8ul6n9vw speterson@educationminnesota.org 
+5Iw51esMa1Wd. speterson@educationminnesota.org 
+5IjN13syB1SMs jfellows@att.net 
+5IZHY/T350ttM doriandter@aol.com 
+5I64jExlD8r3I Gjerryb@earthlink.net 
+5IvY0PLwXbblk stane3189@netscape.net 
+5ISeOlO3/DjLk sheppardedwardle@qwest.net 
+5IYEjsW0dL.UI claudia.j.egelhoff@co.hennepin.mn.us 
+5IZEkia6Pa85M bperez@cnia.inta.gov.ar 
+5I5goHyAsHgXg manderson39@mn.rr.com 
+5IEB2JKB11VLU cindy.carlsson@dot.state.mn.us 
+5INCQbX0bYhrM becky.boland@ci.minneapolis.mn.us 
+5IDupoy6wuRWU clare.collett@pjbpubs.com 
+5I6SRGwNlNGs. onMGHline@aol.com 
+5IkxY6qFQD9sk cityofml@myclearwave.net 
+5I4xFyxs.rSoc tom@nationalconductor.com 
+5IPig1gboYi9k cgreen@lwvmpls.org 
+5IYs9ewOO9Oy6 alexandra.beutel@state.mn.us 
+5IbcXKMip5nZY jburnham@pelicanrapids.k12.mn.us 
+5IjwyYxh9riDM jack2ros@pro-ns.net 
+5IJSAgFmQhJBs Hanna.Nielsen@LibertyMutual.com 
+5IqIHB69Cexcs dkern@juno.com 
+5I/zRiFN.2nhY grianan@uslink.net 
+5I7S52497RMpI kathy.richardson@cobbcounty.org 
+5IC.1c.nzzZ42 kathleenmurphy@earthlink.net 
+5I4gx1bhVwwGM Zackettes@aol.com 
+5IzAQmmNHnuaI bajari@starband.net 
+5IyeYPgRCtlPA sstennes@forestlake.k12.mn.us 
+5I3cOZ54Vvlqw kinderb@puc-mn.org 
+5ISQTny8RFtPg matthew.grosser@senate.mn 
+5IHVeCqmPXacE speterson@educationminnesota 
+5ILCkQIhdQRjU HarryP2112@aol.com 
+5IVcusQWp8ejo hrnc0003@umn.edu 
+5IDglzCcU0HKA vlee@mplsfoundation.org 
+5IUYbpjMaWlF6 doug.morris@emersonprocess.com 
+5IVTgQOgIb4PM bill.burke@meadhunt.com 
+5I0ZekVI18xR. bruce.phyle@co.hennepin.mn.us 
+5ICzUOr3GLevU rschloss@gbronline.com 
+5Iq3NZehbsgvQ mvezina@muellersales.com 
+5I/IGR5e/v1Y2 agibbons@childtrends.org 
+5ICS42CFeD6eA jhwalker@austincc.edu 
+5IW8ZuQ8IvM9k marilyn.snaza@state.mn.us 
+5IVhIoHtP3BnU olso0893@umn.edu 
+5IB5vaapPUS8Q KevinChavis@juno.com 
+5I6x6ZBwm/rxs obad312@hotmail.com 
+5I2q.OOKDXIls Russell.Wagner@centerpointenergy.com 
+5IWx5jbGm/io2 katie.bauer@state.mn.us 
+5IJKZXMi2RgDQ Sylvia.Gutierrez@co.hennepin.mn.us 
+5IIFmimlZljBk dapa2@gopusa.com 
+5INgj7219x49U harold.brown@gov.ab.ca 
+5Ija6La1eFodw bergren@usinternet.com 
+5IaJgfInWZgHw barry.schade@co.dakota.mn.us 
+5ILuHa.bPxqwo Northstar.Support@state.mn.us 
+5IQ9Lf5ehhK4g dcolberg@landformmsp.com 
+5IyBXW3E/hO8k gentile5550@hotmail.com 
+5IxWRCgj5D92Q lwyrum@watchmn.org 
+5IcMPTZ0RDyMs Joan.Utvik@co.dakota.mn.us 
+5I4CD2NbQh2Ug wendy@wcif.org 
+5IuUCsqtWj5Fc mjacobs@psats.org 
+5Ifl0ZkvuDssY johns706@umn.edu 
+5IM51cQY1j52g thepalmers@visi.com 
+5IU1dSFlyh61k catherine.kuo@morganstanley.com 
+5ICw68hTYJn3A jim.parsons@ci.rosemount.mn.us 
+5IgGHB2cjJ..Q bwilcox@cleanwater.org 
+5IYD4CAu6r.Jg kuang@email.cib.gov.tw 
+5Ie.szDPMRMpU tfflower@stkate.edu 
+5IeHh1YwPXhU6 dan.stewart@state.mn.us 
+5IG4da7Hglz4k ned@ci.big-lake.mn.us 
+5IBUigNsr7CGQ thomas@sustainablenorthshore.org 
+5I/Ea8B4zTRuk MartyGarrison@msn.com 
+5IUwmz2a0hSus afjone@aol.com 
+5IWYB8CC9gKvc mlangworthy@co.carver.mn.us 
+5IUNTun5Pvn5U RobinJA@msn.com 
+5IUqv20l7D9R. sawchuk.gary@ic.gc.ca 
+5IDPvi2.jh4i. ls0966@hotmail.com 
+5INAlocDf2o4Q sarah.hoffmann@dnr.state.mn.us 
+5I0wno7BS874I harold.stanislawski@state.mn.us 
+5IUy/UqFsSiRA tim.hunstad@dahlen-berg.com 
+5ILg.4/SsuIlM krista.turner@state.mn.us 
+5IuQ6smwJAF2I d.gohagan@mnsu.edu 
+5ISPDo.1pep.2 cjevansaicp@attbi.com 
+5IhzV4zjZPh8Q suess@frcduluth.org 
+5I6I0/eWcYT4o colness@mfra.com 
+5IAOe.Lt6//0. larisa.vishkovetsky@health.state.mn.us 
+5I3LdskjVg1o2 george.kinney@co.dakota.mn.us 
+5IvGOmDQHmJ62 ozgeyal@gazi.edu.tr 
+5IBC0hSkkEvL2 wlconnelly@earthlink.net 
+5IvEWmOj3WIsE dwageman@nicolletpartners.com 
+5I.tAHGM.hIIg sda@stateside.com 
+5I1Rx5A2Nn5jY jamie.verbrugge@ci.rosemount.mn.us 
+5I11hyWuoRKxI mckenziej@edaw.com 
+5IA83k4JgAF7k ConnieCaraway@aol.com 
+5I6B6pQsUB4HE lynda.king@gvrd.bc.ca 
+5I0XbJia2mY0g rose.anderson@mn.usda.gov 
+5IbkLHNKUzKdc winergie@dmbroadband.com 
+5Io9Xz54Pum.s majelmajelc@netscape.net 
+5Im2bApZU2YlU joann@ieainstitute.com 
+5Ii2vJrxyaYuM jwang@blandinfoundation.org
+5I44Yed5.1/As johnandlaurar@yahoo.com 
+5IiSZRUGGZASw rkimball@fageninc.com 
+5I0XGCNP2p3hY anthony.schaffhauser@state.mn.us 
+5IUNG.0PUtXEo alexandra.beutel@state.mn.us 
+5ItM3c34sQG2w ghalverson@bonestroo.com 
+5IwtKwHD1JbSk retinaexpert@astound.net 
+5IgPHf2Y6NVMw ce@expediteintl.com 
+5I333.WUDBIwI ce@expediteintl.com 
+5I0nwkp6jgI6U mkkosak@blandinfoundation.org 
+5IdJ5CYUMFTGM jwicker100@aol.com 
+5IUCQ007DxMEI HLee@henwoodenergy.com 
+5ItXGVX4kmWVo suzan.frovik@so.mnscu.edu 
+5Icl5PjAvKOWQ rebecca.wooden@dnr.state.mn.us 
+5INdGHbVcUoGc windinfo@charter.net 
+5I691soxYcRhY mike.kaluzniak@health.state.mn.us 
+5IATErKBBwsKo dan.schmidt@hdrinc.com 
+5I6FHM1u1pJ8U pamela.cosby@co.hennepin.mn.us 
+5IFiTIjH6nmZM rrosario@pioneerpress.com 
+5I1l.VSMi/d9g rrosario@pioneerpress.com 
+5IvWqjMP5TQJY tad@lmglas.com 
+ bikeped 
+5IbeqVFW7IDvU luc.gravel@mrn.gouv.qc.ca 
+5IxTMqa7g71rE lkiewel@hrgreen.com 
+5IA5899Mthj3g mvogel@worldnet.att.net 
+5IvS77lgtSixc batuck@stcloudstate.edu 
+5I.O7lWpmNgoc dianab7014@aol.com 
+5I3PEJKN2imzc carya@carleton.edu 
+5IBhhkUHfmt/Q carya@carleton.edu 
+5IXkZ5zgfpKRc sburton@driftwoodlib.org 
+5Ih.Z4Bm3r.IU mmyers@bridgesmed.com 
+5ISdvYQXYzD2M wpturner@smumn.edu 
+5IqT0naotkZHU swnyhus@flaherty-hood.com 
+5I5K7WoPHGe/M stevrino@charter.net 
+5Itgx0bzriDKo payson@prtel.com 
+5I60NpmV723L6 Asanturams@hotmail.com 
+5IXIV14QeGlpA grimes@heso.state.mn.us 
+5IkQOf0l/TrFs cstrack@municipaldevelopmentgroup.com 
+5I76YqoD.UzLo MadrP047@newschool.edu 
+5IGfqBcxBNup. MadrP047@newschool.edu 
+5IBIw.S9tfmmY sarahkotok@hotmail.com 
+5IoIhFTxYvlCQ weeksd@dor.state.fl.us 
+5IoS8Zc/FacBQ joleneanderson24@hotmail.com 
+5IGHVuWF0apik MStrohfus@GREnergy.com 
+5IxQjvwEk9g9s smit1635@umn.edu 
+5I7XOMXprsoNY grant.stevenson@xcelenergy.com 
+5I08.fyHErwVA ruth.zietlow@metrostate.edu 
+5ILg86JUAFhio msanti@teckman.com 
+5IZfRzbEyWKfY virginia.bopp@metc.state.mn.us 
+5IJlFyFTvjCcs bgoodpaster@mncenter.org 
+5IB.TEAenG9vk jlee@barr.com 
+5IyfCHe.3zwxo lezlee_d@hotmail.com
+5ILDj4pLMKFeM jpiekos@Bag-E-Wash.com
+5IdsCH4feL0z6 karen.christensen@co.ramsey.mn.us 
+5Iu./amLjoDRc erinbraunstein@brsarch.com 
+5ITpclgCCZXaI afd2108@MSN.com 
+5IrKdXTLhaj.c jgale@cecomn.com 
+5IfC9Sas5lkkk ryan.miner@apigroupinc.com 
+5IAbEPmvPdAwg denzil@mellors.net 
+5IBT9Muzksy/g ARC.ActionRadio.com 
+5IIXDXyKpznt2 geri.britton@usa.net 
+5IwHSJSU7nzps lnelson02@monetbroadband.net 
+5I9ojDYIfGZZw LBlock1@aol.com 
+5IYH/8r84PYJI michael.grover@mpls.frb.org 
+5InGPq4kG.o06 kaarnold@tamu.edu 
+5I5ZIH0ddwYsg scooper@ene.com 
+5ItcXXZwOIUow dsinars@ene.com 
+5I3iD56uWnZ6M curvesofnorthoaks@earthlink.net 
+5IwdVNiHVH2Nw suzanne.steinhauer@hdrinc.com 
+5IX3R5NPnoZE6 har99082@byui.edu 
+5I/fM0yU1D4hQ har99082@byui.edu 
+5INxQKMb6bNdY Purpleprairiebot@aol.com 
+5ISi7NRROqpoo eco_veg_fem@hotmail.com 
+5IeS4gkAaAbSs connief@mnic.net
+5ICp7Y8UHe6eA jpease@students.uwsuper.edu 
+5I9YPHL/1dcwk ahurlbur@ci.plymouth.mn.us 
+5IB/cbaMMhpYc nancyjo.laplante@health.state.mn.us 
+5I6cIk1nvQhmM hamilton@me3.org 
+5IykQ6feX6KD6 info@houleinsulation.com 
+5IwYG8ajcCxoo bill@tonofsolar.com 
+5IWixYcT.0uNY dshidell@aol.com 
+5IB10KI.FrEFY knot2wury@aol.com 
+
+
+# Digital Gangster [2017-06-18]

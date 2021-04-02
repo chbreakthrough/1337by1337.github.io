@@ -1,0 +1,113 @@
+                               _ 
+                            _-' "'-,     
+                         _-' | d$$b |  
+                      _-'    | $$$$ |    
+                   _-'       | Y$$P |  
+                _-'|         |      |
+             _-'  _*         |      |
+          _-' |_-"      __--''\    /
+       _-'         __--'     __*--'
+     -'       __-''    __--*__-"`
+    |    _--''   __--*"__-'`  
+    |_--"  .--=`"__-||"  
+    |      |  |\\   ||
+    | .dUU |  | \\ //
+    | UUUU | _|___//
+    | UUUU |  |   
+    | UUUU |  |         [ Leaked by: Digital Gangster ]
+    | UUUU |  |		[ Target: casadelacultura.gob.ec ]
+    | UUUU |  |		[ Database: casadela_cce ]
+    | UUUU |  |		[ Vulnerability: SQL Injection ]
+    | UUP' |  |		[ Info leaked: Full name, mail, landline, phone number ]
+    |   ___^-"`
+     ""'          
+-----------------------------------------------------------------------------------------------------------------------
+
+co_cargo,co_contacto,co_email,co_id,co_nombre_area,co_telefono_fijo,co_telefono_movil,pr_id
+
+Directora,Isabel Izquierdo,areadelamujer@casadelacultura.gob.ec,1,Área de la Mujer,(593) (2) 222 33 91 extensión 141,19
+Secretaria,Myriam Medina,miryam.medina@casadelacultura.gob.ec,2,Presidencia,(593) (2) 222 10 06 ext. 205,0999 948618,19
+Secretaria,Viviana Álvarez,viviana.alvarez@casadelacultura.gob.ec,3,Vicepresidencia,(593) (2) 222 10 06 ext. 261,0995 979104,19
+Secretaria,Alexandra Cañas,alexandra.canas@casadelacultura.gob.ec,4,Secretaria General,(593) (2) 222 10 06 ext. 211,0998 398196,19
+Asistente Administrativa,Rommel Revelo,rommel.revelo@casadelacultura.gob.ec,6,Comunicación Social,(593) (2) 222 10 06 ext. 344,0998319105,19
+Productora,Laura Ríos Armijos,laura.rios@casadelacultura.gob.ec,7,Radio CCE,(593) (2) 222 10 06 ext. 328,0984 258523,19
+Directora,Wilma Granda Noboa,wilma.granda@casadelacultura.gob.ec,8,Cinemateca,(593) (2) 222 10 06 ext. 125,0992 039503,19
+Secretaria,Ana Vinueza,ana.vinueza@casadelacultura.gob.ec,9,Financiero,(593) (2) 222 10 06 ext. 222,19
+Directora,Katia Flor,katia.flor@casadelacultura.gob.ec,10,Biblioteca,(593) (2) 222 10 06 ext. 330,0998 398184,19
+Secretaria,Rosa Mora,rosa.mora@casadelacultura.gob.ec,11,Desarrollo Institucional,(593) (2) 222 10 06 ext. 231,0992 743254,19
+Técnico,Walter Yugsi,walter.yugsi@casadelacultura.gob.ec,12,Sistemas,(593) (2) 222 10 06 ext. 128,0992 754130,19
+Secretaria,Selma Romo,selma.romo@casadelacultura.gob.ec,13,Museos,(593) (2) 222 10 06 ext. 321,0998 117350,19
+Secretaria,Katherine Chalacán,katherine.chalacan@casadelacultura.gob.ec,14,Planificación,(593) (2) 222 10 06 ext. 123,19
+Secretaria,Gimena López,gimena.lopez@casadelacultura.gob.ec,15,Publicaciones,(593) (2) 222 10 06 ext. 138,19
+Secretaria,Carla Román,carla.roman@casadelacultura.gob.ec,16,Proyectos,(593) (2) 222 10 06 ext. 229,0995 660182,19
+Secretaria,Mónica Escobar,monica.escobar@casadelacultura.gob.ec,17,Jurídico,(593) (2) 222 10 06 ext. 233,0998 016210,19
+Secretaria,Lupe Albuja,lupe.albuja@casadelacultura.gob.ec,18,Teatros,(593) (2) 222 10 06 ext. 308,0983362929,19
+Secretaria,Eunice Jarrín,eunice.jarrin@casadelacultura.gob.ec,19,Servicios Técnicos,(593) (2) 222 10 06 ext. 312,0984 405013,Eunice Jarr\xedn
+Secretaria,Mónica Mera,monica.mera@casadelacultura.gob.ec,20,Conjunto de Cámara,(593) (2) 2221006 ext. 319,0997 448073,19
+Jefe Unidad,Jaime Martínez,jaime.martínez@casadelacultura.gob.ec,21,Control de Bienes,(593) 2 221 006 ext. 344,0998720804,19
+Jefe Técnico,Jaime Paredes,jaime.paredes@casadelacultura.gob.ec,22,Fondo Editorial,(593) 2 221 006 ext. 131,0997 793525,19
+Coordinador,Gerardo Fernandez,gerardo.fernandez@casadelacultura.gob.ec,23,Unidad de Televisión,022 221 006 ext. 116,0987 315872,19
+Encargado de la web,Magno Coronel,magno.coronel@casadelacultura.gob.ec,24,Web,(593) (2) 222 10 06 ext. 314,0998372656,19
+Doctora,Rocío Delgado,rocio.delgado@casadelacultura.gob.ec,25,Centro Médico,(593) (2) 222 10 06 ext. 318,19
+Director,Jorge Jaramillo,jorge.jaramillo@casadelacultura.gob.ec,26,Coro,(593) (2) 222 10 06 ext. 456,19
+Comunicación,Mercedes Pesántez,mercedes.pesantez@casadelacultura.gob.ec,28,Promoción Cultural,(593) (7) 284 25 86,1
+Secretaria,Nelly Benalcázar,nucleo.carchi@casadelacultura.gob.ec,29,Secretaría,593 (6) 298 01 72,4
+Web,Cielo Pozo,ccecarchi@outlook.com,30,Museos,593 (6) 298 01 72 extensión 110,4
+Jefe de Talento Humano,Julio Espinoza Bustamante,cculturaloja@hotmail.com,31,Talento humano,593 (07) 2571672 - ext. 101,12
+Presidente CCE-Loja,Félix Paladines Paladines,cculturaloja@hotmail.com,32,Presidencia,593 (07) 2571004,12
+Tesorera,Carmita Herrera Godoy,cculturaloja@hotmail.com,33,Unidad Financiera,593 (07) 2571672 - ext. 105,12
+Bibliotecaria,Paulina Sánchez Flores,cculturaloja@hotmail.com,34,Biblioteca,593 (07) 2571672 - ext. 107,12
+Jefe de imprenta,Luis Córdova Espinales,cculturaloja@hotmail.com,35,Editorial,593 (07) 2571672 - ext. 112,12
+Sonidista,Mauricio Cruz,cculturaloja@hotmail.com,36,Audiovisuales,593 (07) 2571672 - ext. 109,12
+Diagramador,Gonzalo Vega,cculturaloja@hotmail.com,37,Computación,593 (07) 2571672 - ext. 110,12
+Coordinador de extensiones,Diego Naranjo Hidalgo,cculturaloja@hotmail.com,38,Coordinación de extensiones,593 (07) 2571672 - ext. 106,12
+Comunicadora social,Jeannet Coronel,cculturaloja@hotmail.com,39,Comunicación Social,593 (07) 2571672 - ext. 108,12
+Secretaria,Miroslava Navarrete Ortiz,nucleo.bolivar@casadelacultura.gob.ec,40,Secretaría,593 03 2550641  /  2550567,2
+Secretaria General,Srta. Daniela Bailón Briones,nucleo.orellana@casadelacultura.gob.ec,42,Secretaria,593 (06) 2860-640 / 2861-524,0993463950,17
+Tesorera,Ing. Verónica Roa Mosquera,maria.roa@casadelacultura.gob.ec,43,Tesoreria,593 (06) 860 640 861 524,0967913868,17
+Presidente,Ing. Nicolás Paucar,nicolas.paucar@casadelacultura.gob.ec,44,Presidencia,593 (06) 2860 640,0991905264,17
+Promotor Cultural,Lic. Ángel Cambo,angel.cambo@casadelacultura.gob.ec,45,Promoción Cultural,593 (06) 2860 640,0990132614,17
+Jefe de Sistemas,Alejandro Espinoza,victor.espinoza@casadelacultura.gob.ec,46,Página Web,(593) (5) 2730154,(593) 988350235,13
+Secretaria,Diana Delvicier Valencia,nucleo.esmeraldas@casadelacultura.gob.ec,47,Secretaría,(593) (6) 2456393,0993562044,8
+Secretaria del Núcleo,Mercedes Basantes,nucleo.imbabura@casadelacultura.gob.ec,48,Secretaría,(593) (6) 2951294,11
+Promotor Cultural,Lcdo. Eiron Álava,aurelio.alava@casadelacultura.gob.ec,49,Promoción Cultural,(593) (2) 2753292 ext. 104,21
+Bibliotecario,Cristian Campués,cristian.campues@casadelacultura.gob.ec,50,Biblioteca,(593) (6) 2835347,(593) 0968226924,22
+Secretaria,Laura Jara,laura.jara@casadelacultura.gob.ec,51,Secretaría,(593) (07) 2702395,15
+Técnico de Audio y Video,Angelica Jaramillo,angelica.jaramillo@casadelacultura.gob.ec,52,Audio y Video,(593) (07) 2702395,(593) 0987133441,15
+Presidente,Marcelo Noguera,marcelo.noguera@casadelacultura.gob.ec,53,Presidencia,(593) (07) 2702395,(593) (09) 93247549,15
+Proyectos y Planificación,Jackie Yagual Villao,jackie.yagual@casadelacultura.gob.ec,54,(593) (4) (2940276) Ext. 101,(593) (0989113848),20,Proyectos y Planificación
+Relacionador Público,Rubén Molina,ruben.molina@casadelacultura.gob.ec,56,Relaciones Publicas  y Comunicaciones,(593) (3) 2960219,5
+Comunicadora Social,Sra. Julia Morales Tello,julia.morales@casadelacultura.gob.ec,57,Relaciones Públicas,(593)(7) 2605441,0987759948,24
+Contrato,Lic. Patricio Reinoso,mercedes.cayamcela@casadelacultura.gob.ec,58,Secretaría General,(593) (07) 2240077,3
+Coordinación Administrativa y Contabilidad,Verónica Tatiana González Chango,veronica.gonzalez@casadelacultura.gob.ec,59,(593) (3) 2885933,0997815053,18,Coordinación Administrativa y Contabilidad
+Director,Antonio Ordóñez,teatro.ensayo@casadelacultura.gob.ec,60,Teatro Ensayo,(593) (2) 2223391 extensión 350,(593) 0994594004,19
+Bilbiotecaría del Núcleo,Magdalena Álvarez,magdalena.alvarez@casadelacultura.gob.ec,61,Biblioteca,(593) (03) 2820338 ext. 14,23
+Comunicador social,Fernando Isizán,fernandoisizan@casadelacultura.gob.ec,62,Comunicación Social,062 860640,0994516502,17
+Auxiliar de servicios,Daniel Aveiga Manzaba,daniel.aveiga@casadelacultura.gob.ec,63,Auxiliar de servicios,062 860640,0988648150,17
+Responsable de Compras Públicas,Danilo L. Castillo Manchay,danilo.castillo@casadelacultura.gob.ec,64,Compras Públicas,062 861524,0982665314,17
+Técnica de Planificación,Sandra Yessenia Ruiz Vera,sandra.ruiz@casadelacultura.gob.ec,65,Planificación,062 860640,0997730800,17
+Asistente Administrativo,Lorena Amparo Jurado Ochoa,lorena.jurado@casadelacultura.gob.ec,66,Telecentro,062860640,0988296215,17
+"Secreataria General, Jefa de UATH",Dra. Patricia Ramón Sanmartín,nucleo.eloro@casadelacultura.gob.ec,67,Secretaría General,072 930711 - 072 937117 ext. 103,7
+Promotor Cultural,Lic. Jorge Ramírez Saraguro,joramirez1973@yahoo.com,68,Promoción Cultural,072 930711 - 072 937117 - 072 938823 ext. 114,7
+Relacionísta Pública,Lic. Ana Lilia Ludeña P.,ana.ludena@casadelacultura.gob.ec,69,Comunicación Social,072 930711 - 072 937117 - 072 938823 - 072 866651 ext. 112,7
+Directora Financiera,Ing. Marcia Rentería Minuche,marcia.renteria@casadelacultura.gob.ec,70,Financiero,072 930711 - 072 937117 - 072 938823 ext. 106,7
+Servidor Público 5,Ing. Hada Zurita Barona,hada.zurita@casadelacultura.gob.ec\r\nhadazurita@yahoo.com,71,Secretaría,593 02 2820338 ext. 11,23
+Auxiliar de Sistemas,Greta Sánchez Sánchez,greta.sanchez@casadelacultura.gob.ec,72,Página Web,(05) 2736984,13
+Secretaria,Lic. Sandra Solorzano Navia,sandra.solorzano@casadelacultura.gob.ec,73,Secretaría General,05 2652243 ext 110,0996779646,14
+Periodista,Rommel Revelo,rommel.revelo@casadelacultura.gob.ec,74,LOTAIP,(593) (2) 2221006 ext. 344,0998319105,19
+Tlento Humano,03-2813247 ext 104,pablo.atiaga@casadelacultura.gob.ec,75,Talento Humano,03-2813247 ext 104,6
+Tesorera,Lic. Carmen Valencia,carmen.valencia@casadelacultura.gob.ec,76,Tesoreía,03-813247 ext 103,6
+Contadora,CPA. Cleotilde Salazar,cleotilde.salazar@casadelacultura.gob.ec,77,Contabilidad,03-813247 ext 105,6
+Bibliotecaría,Sra. Alexandra Arias,alexandra.arias@casadelacultura.gob.ec,78,BIBLIOTECA,03-813247 ext 107,6
+Imprenta,Sr. Darwin Fabara,dawin.fabara@casadelacultura.gob.ec,79,IMPRENTA,03-813247 ext 106,6
+Secretario General,Sr. Miguel Agel Rengifo,miguel.rengifo@casadelacultura.gob.ec,80,SECRETARIA,03-813247 ext 101,6
+Presidente,Dr. Edmundo Rivera Robayo,edmundo.rivera@casadelacultura.gob.ec,81,PRESIDENCIA,03-813247 ext 102,6
+Promotor Cultural,032884803,fernando.caiza@casadelacultura.gob.ec,82,Promoción Cultural,0984359271,18,Promoción Cultural
+Promoción Cultural,Lcda. Mariuxi Rodríguez Borbor,mariuixi.rodriguez@casadelacultura.gob.ec,83,042940276\r\nExt 107,20,Promoción Cultural
+Secretaria General,Ab. Marco Guamán Toapanta,marco.guaman@casadelacultura.gob.ec,84,042940276 Ext 102,20,Ab. Marco Guam\xe1n Toapanta
+Presidenta,Eco. Beatriz Gómez Pita,consuelo.gomez@casadelacultura.gob.ec,85,Presidencia,042940276 Ext.103,20
+Contadora,Mgs. Piedad Rodriguez Orrala,piedad.rodriguez@casadelacultura.gob.ec,86,Contadora - Tesorera,042940276 Ext 104,20
+Coordinador,Patricio Álvaro,patricio.alvaro@casadelacultura.gob.ec,87,Radio CCE,(593) (2) 222 10 06 ext. 460,19
+Secretaria,Doris Ardito,nucleo.galapagos@casadelacultura.gob.ec,88,Secretaría General,05 2520584,0985753206,9
+
+# Digital Gangster [2017-02-12]

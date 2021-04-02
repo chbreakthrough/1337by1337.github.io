@@ -1,0 +1,23 @@
+Database: mantrace_revampnew
+Table: admin
+[13 entries]
++----------+---------+--------------------------------+----------------+
+| admin_id | country | admin_password                 | admin_username |
++----------+---------+--------------------------------+----------------+
+| 1        |         | cyberksa                       | admin          |
+| 2        |         | 21232f297a57a5a743894a0e4a801? | 0              |
+| 4        |         | SGnukteirvU                    | admin          |
+| 5        |         | SgNukteirvU                    | admin          |
+| 6        |         | SgnUkteirvU                    | admin          |
+| 7        |         | SgnuKteirvU                    | admin          |
+| 8        |         | SgnukTeirvU                    | admin          |
+| 9        |         | SgnukteIrvU                    | admin          |
+| 10       |         | SgnukteiRvU                    | admin          |
+| 11       |         | SgnukteirVU                    | admin          |
+| 12       |         | SgnukteirvU                    | admin          |
+| 13       |         | SgnukteirvU                    | admin          |
+| 14       |         | SgnukteirvU                    | admin          |
++----------+---------+--------------------------------+----------------+
+
+
+# Digital Gangster [2017-08-07]
